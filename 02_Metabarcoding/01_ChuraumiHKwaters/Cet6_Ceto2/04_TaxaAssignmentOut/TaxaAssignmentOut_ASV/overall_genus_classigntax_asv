@@ -1,0 +1,751 @@
+query	superkingdom	kingdom	phylum	subphylum	superclass	class	subclass	infraclass	cohort	subcohort	superorder	order	suborder	infraorder	parvorder	family	subfamily	genus	species
+ASV00001	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae			
+ASV00002	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae		Pseudorca	Pseudorca crassidens
+ASV00003	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae			
+ASV00004	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae			
+ASV00005	Eukaryota																		
+ASV00006	Bacteria		Pseudomonadota			Gammaproteobacteria						Alteromonadales				Alteromonadaceae			
+ASV00007	Bacteria																		
+ASV00008	Bacteria		Pseudomonadota			Gammaproteobacteria						Alteromonadales							
+ASV00009	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales							
+ASV00010	Bacteria		Pseudomonadota			Alphaproteobacteria						Rhodobacterales							
+ASV00011	Bacteria																		
+ASV00012																			
+ASV00013	Bacteria																		
+ASV00014	Bacteria		Cyanobacteriota			Cyanophyceae						Synechococcales				Synechococcaceae		Synechococcus	
+ASV00015	Bacteria		Bacteroidota																
+ASV00016	Eukaryota																		
+ASV00017																			
+ASV00018	Bacteria		Pseudomonadota			Gammaproteobacteria						Alteromonadales							
+ASV00019																			
+ASV00020	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Suina			Suidae		Sus	Sus scrofa
+ASV00021	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales							
+ASV00022	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00023	Bacteria		Pseudomonadota			Gammaproteobacteria						Vibrionales				Vibrionaceae		Vibrio	
+ASV00024	Eukaryota																		
+ASV00025	Bacteria																		
+ASV00026	Bacteria		Verrucomicrobiota			Opitutae													
+ASV00027	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae			
+ASV00028	Eukaryota		Haptophyta									Phaeocystales				Phaeocystaceae		Phaeocystis	
+ASV00029	Eukaryota																		
+ASV00030	Eukaryota																		
+ASV00031	Eukaryota																		
+ASV00032	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Flavobacteriaceae			
+ASV00033	Eukaryota																		
+ASV00034	Eukaryota																		
+ASV00035	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00036	Bacteria																		
+ASV00037	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea					
+ASV00038																			
+ASV00039	Bacteria																		
+ASV00040	Eukaryota																		
+ASV00041	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae			
+ASV00042																			
+ASV00043	Bacteria		Fusobacteriota			Fusobacteriia						Fusobacteriales				Fusobacteriaceae			
+ASV00044	Eukaryota																		
+ASV00045	Eukaryota																		
+ASV00046	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00047	Eukaryota		Bacillariophyta																
+ASV00048	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea					
+ASV00049	Bacteria		Pseudomonadota			Alphaproteobacteria						Sphingomonadales				Sphingomonadaceae			
+ASV00050																			
+ASV00051																			
+ASV00052	Eukaryota		Bacillariophyta																
+ASV00053																			
+ASV00054	Bacteria		Pseudomonadota			Gammaproteobacteria						Alteromonadales				Pseudoalteromonadaceae		Pseudoalteromonas	
+ASV00055	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Flavobacteriaceae			
+ASV00056	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00057	Eukaryota																		
+ASV00058	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00059																			
+ASV00060	Bacteria		Verrucomicrobiota			Opitutae													
+ASV00061	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae			
+ASV00062	Bacteria		Pseudomonadota			Alphaproteobacteria						Rhodobacterales							
+ASV00063	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae			
+ASV00064	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00065	Bacteria																		
+ASV00066	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Carnivora	Caniformia			Canidae		Canis	Canis lupus
+ASV00067	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales							
+ASV00068	Eukaryota																		
+ASV00069	Eukaryota																		
+ASV00070	Bacteria																		
+ASV00071	Bacteria		Bacteroidota																
+ASV00072	Bacteria																		
+ASV00073	Bacteria		Bacteroidota																
+ASV00074	Bacteria		Pseudomonadota			Alphaproteobacteria						Rhodobacterales							
+ASV00075	Bacteria		Pseudomonadota			Gammaproteobacteria						Alteromonadales				Pseudoalteromonadaceae		Pseudoalteromonas	
+ASV00076	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea					
+ASV00077	Eukaryota																		
+ASV00078	Eukaryota		Cercozoa			Chlorarachniophyceae													
+ASV00079																			
+ASV00080	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00081	Bacteria																		
+ASV00082	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Flavobacteriaceae			
+ASV00083	Bacteria		Pseudomonadota			Gammaproteobacteria						Thiotrichales				Thiotrichaceae			
+ASV00084	Bacteria																		
+ASV00085																			
+ASV00086	Eukaryota		Haptophyta																
+ASV00087	Eukaryota		Haptophyta																
+ASV00088	Bacteria		Pseudomonadota			Gammaproteobacteria						Oceanospirillales				Halomonadaceae			
+ASV00089	Eukaryota																		
+ASV00090	Bacteria		Pseudomonadota			Gammaproteobacteria						Alteromonadales				Pseudoalteromonadaceae		Pseudoalteromonas	
+ASV00091	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00092	Eukaryota		Bacillariophyta			Coscinodiscophyceae	Thalassiosirophycidae												
+ASV00093	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Flavobacteriaceae			
+ASV00094	Eukaryota																		
+ASV00095																			
+ASV00096	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae			
+ASV00097	Bacteria		Pseudomonadota			Alphaproteobacteria						Candidatus Pelagibacterales				Candidatus Pelagibacteraceae		Pelagibacter	
+ASV00098	Bacteria																		
+ASV00099	Eukaryota		Cercozoa			Chlorarachniophyceae													
+ASV00100	Eukaryota		Bacillariophyta																
+ASV00101	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales							
+ASV00102	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea					
+ASV00103																			
+ASV00104	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00105	Eukaryota																		
+ASV00106	Eukaryota					Dinophyceae						Dinophysales				Dinophysaceae		Phalacroma	Phalacroma mitra
+ASV00107	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae			
+ASV00108	Eukaryota																		
+ASV00109	Bacteria		Pseudomonadota			Gammaproteobacteria						Alteromonadales							
+ASV00110	Bacteria																		
+ASV00111	Bacteria		Bacteroidota																
+ASV00112	Bacteria		Bacteroidota			Saprospiria						Saprospirales							
+ASV00113	Eukaryota																		
+ASV00114	Bacteria		Verrucomicrobiota																
+ASV00115	Bacteria		Pseudomonadota			Gammaproteobacteria						Vibrionales				Vibrionaceae		Vibrio	
+ASV00116	Bacteria		Pseudomonadota			Gammaproteobacteria						Alteromonadales				Pseudoalteromonadaceae		Pseudoalteromonas	
+ASV00117	Bacteria																		
+ASV00118	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Monodontidae			
+ASV00119																			
+ASV00120	Eukaryota					Dinophyceae						Dinophysales				Dinophysaceae		Phalacroma	Phalacroma mitra
+ASV00121	Bacteria																		
+ASV00122	Eukaryota																		
+ASV00123	Bacteria																		
+ASV00124	Eukaryota		Bacillariophyta			Coscinodiscophyceae	Thalassiosirophycidae					Thalassiosirales							
+ASV00125	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00126	Eukaryota																		
+ASV00127	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00128	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00129	Bacteria		Pseudomonadota			Gammaproteobacteria						Pseudomonadales				Marinobacteraceae		Marinobacter	
+ASV00130	Bacteria																		
+ASV00131	Eukaryota																		
+ASV00132																			
+ASV00133	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00134																			
+ASV00135	Eukaryota																		
+ASV00136	Bacteria		Pseudomonadota			Alphaproteobacteria						Hyphomicrobiales				Rhizobiaceae			
+ASV00137	Bacteria																		
+ASV00138	Bacteria																		
+ASV00139	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae			
+ASV00140	Eukaryota																		
+ASV00141	Bacteria																		
+ASV00142	Bacteria																		
+ASV00143																			
+ASV00144	Bacteria		Verrucomicrobiota																
+ASV00145	Bacteria		Pseudomonadota			Gammaproteobacteria													SAR86 cluster bacterium
+ASV00146	Bacteria		Pseudomonadota			Alphaproteobacteria						Sphingomonadales							
+ASV00147																			
+ASV00148	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00149	Bacteria		Pseudomonadota			Alphaproteobacteria						Rhodobacterales							
+ASV00150	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae			
+ASV00151	Eukaryota		Haptophyta									Isochrysidales				Noelaerhabdaceae			
+ASV00152																			
+ASV00153	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00154																			
+ASV00155	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00156																			
+ASV00157																			
+ASV00158	Bacteria		Pseudomonadota			Alphaproteobacteria						Rhodospirillales							
+ASV00159	Bacteria		Bacteroidota			Cytophagia						Cytophagales				Roseivirgaceae		Roseivirga	
+ASV00160	Bacteria																		
+ASV00161																			
+ASV00162	Bacteria		Pseudomonadota			Gammaproteobacteria						Pseudomonadales				Marinobacteraceae		Marinobacter	
+ASV00163	Bacteria		Bacillota			Clostridia						Peptostreptococcales				Peptostreptococcaceae			
+ASV00164	Eukaryota																		
+ASV00165																			
+ASV00166	Eukaryota		Cercozoa			Chlorarachniophyceae													
+ASV00167	Bacteria		Pseudomonadota			Alphaproteobacteria						Rhodobacterales							
+ASV00168	Eukaryota																		
+ASV00169	Bacteria		Actinomycetota			Actinomycetes	Candidatus Actinomarinidae					Candidatus Actinomarinales	Candidatus Actinomarineae			Candidatus Actinomarinaceae		Actinomarina	Candidatus Actinomarina minuta
+ASV00170																			
+ASV00171																			
+ASV00172	Bacteria		Bacteroidota																
+ASV00173	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Flavobacteriaceae			
+ASV00174																			
+ASV00175	Bacteria		Pseudomonadota			Betaproteobacteria													
+ASV00176	Bacteria																		
+ASV00177	Bacteria		Pseudomonadota			Alphaproteobacteria						Hyphomicrobiales				Nitrobacteraceae			
+ASV00178	Eukaryota																		
+ASV00179																			
+ASV00180	Eukaryota																		
+ASV00181	Bacteria		Pseudomonadota			Gammaproteobacteria						Alteromonadales				Alteromonadaceae			
+ASV00182	Eukaryota					Dinophyceae						Dinophysales				Dinophysaceae		Phalacroma	Phalacroma mitra
+ASV00183	Bacteria																		
+ASV00184	Bacteria		Bacteroidota																
+ASV00185	Bacteria		Pseudomonadota			Alphaproteobacteria						Hyphomicrobiales				Rhizobiaceae			
+ASV00186	Bacteria		Cyanobacteriota			Cyanophyceae						Synechococcales				Synechococcaceae		Synechococcus	
+ASV00187	Eukaryota					Cryptophyceae						Cryptomonadales				Hemiselmidaceae		Hemiselmis	
+ASV00188	Bacteria																		
+ASV00189	Bacteria		Bacteroidota																
+ASV00190	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00191	Bacteria																		
+ASV00192	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00193	Eukaryota																		
+ASV00194	Bacteria		Pseudomonadota			Gammaproteobacteria						Pasteurellales				Pasteurellaceae			
+ASV00195																			
+ASV00196	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00197	Bacteria		Pseudomonadota			Alphaproteobacteria						Candidatus Pelagibacterales				Candidatus Pelagibacteraceae		Pelagibacter	
+ASV00198	Bacteria																		
+ASV00199	Bacteria																		
+ASV00200	Bacteria		Pseudomonadota			Gammaproteobacteria						Pseudomonadales				Pseudomonadaceae		Pseudomonas	
+ASV00201	Eukaryota		Cercozoa			Chlorarachniophyceae													
+ASV00202	Eukaryota					Cryptophyceae						Pyrenomonadales							
+ASV00203	Bacteria		Pseudomonadota			Gammaproteobacteria						Aeromonadales				Aeromonadaceae		Aeromonas	
+ASV00204	Eukaryota																		
+ASV00205	Bacteria																		
+ASV00206	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales							
+ASV00207	Bacteria		Bacteroidota																
+ASV00208	Eukaryota					Dinophyceae						Dinophysales				Dinophysaceae		Phalacroma	Phalacroma mitra
+ASV00209	Bacteria		Pseudomonadota			Alphaproteobacteria						Rhodobacterales							
+ASV00210	Bacteria		Pseudomonadota			Gammaproteobacteria						Thiotrichales				Thiotrichaceae			
+ASV00211	Eukaryota					Dinophyceae						Dinophysales				Dinophysaceae		Phalacroma	Phalacroma mitra
+ASV00212	Bacteria		Pseudomonadota			Alphaproteobacteria						Sphingomonadales				Sphingomonadaceae			
+ASV00213																			
+ASV00214	Bacteria		Bacillota			Clostridia						Eubacteriales				Clostridiaceae		Clostridium	
+ASV00215	Bacteria		Verrucomicrobiota			Opitutae													
+ASV00216	Bacteria																		
+ASV00217	Eukaryota		Haptophyta																
+ASV00218	Eukaryota																		
+ASV00219	Eukaryota																		
+ASV00220																			
+ASV00221																			
+ASV00222	Bacteria		Cyanobacteriota			Cyanophyceae						Synechococcales							
+ASV00223	Bacteria		Bacteroidota																
+ASV00224	Bacteria																		bacterium
+ASV00225	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Flavobacteriaceae		Tenacibaculum	
+ASV00226	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae			
+ASV00227	Eukaryota		Bacillariophyta			Coscinodiscophyceae	Thalassiosirophycidae					Thalassiosirales				Thalassiosiraceae			
+ASV00228	Bacteria																		
+ASV00229	Bacteria		Pseudomonadota			Gammaproteobacteria						Moraxellales				Moraxellaceae		Psychrobacter	
+ASV00230	Bacteria		Balneolota			Balneolia						Balneolales				Balneolaceae			
+ASV00231	Bacteria																		
+ASV00232																			
+ASV00233	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Flavobacteriaceae			
+ASV00234	Eukaryota					Cryptophyceae						Pyrenomonadales							
+ASV00235	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae			
+ASV00236	Bacteria		Bacteroidota																
+ASV00237																			
+ASV00238	Eukaryota		Haptophyta																
+ASV00239	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00240	Bacteria																		
+ASV00241																			
+ASV00242	Bacteria																		
+ASV00243	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales							
+ASV00244	Bacteria		Pseudomonadota			Betaproteobacteria						Burkholderiales							
+ASV00245	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00246																			
+ASV00247	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00248	Eukaryota																		
+ASV00249																			
+ASV00250	Bacteria		Actinomycetota			Actinomycetes													
+ASV00251	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00252	Bacteria		Pseudomonadota			Alphaproteobacteria						Hyphomicrobiales				Methylobacteriaceae			
+ASV00253	Bacteria																		
+ASV00254	Bacteria		Verrucomicrobiota			Opitutae													
+ASV00255	Eukaryota																		
+ASV00256	Bacteria																		
+ASV00257	Eukaryota																		
+ASV00258	Bacteria																		
+ASV00259	Bacteria		Pseudomonadota			Gammaproteobacteria						Pseudomonadales				Marinobacteraceae		Marinobacter	
+ASV00260	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti				
+ASV00261	Eukaryota																		
+ASV00262	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00263	Bacteria																		
+ASV00264	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae		Pseudorca	Pseudorca crassidens
+ASV00265	Bacteria		Pseudomonadota			Gammaproteobacteria						Pseudomonadales				Pseudomonadaceae			
+ASV00266	Bacteria		Pseudomonadota			Betaproteobacteria						Burkholderiales				Burkholderiaceae			
+ASV00267	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00268	Bacteria		Pseudomonadota			Alphaproteobacteria						Candidatus Pelagibacterales				Candidatus Pelagibacteraceae		Pelagibacter	
+ASV00269	Bacteria		Pseudomonadota																
+ASV00270	Eukaryota		Cercozoa			Chlorarachniophyceae													
+ASV00271	Eukaryota																		
+ASV00272	Eukaryota																		
+ASV00273	Bacteria																		
+ASV00274	Bacteria		Bacteroidota																
+ASV00275																			
+ASV00276	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00277	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00278	Eukaryota																		
+ASV00279																			
+ASV00280	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00281	Eukaryota																		
+ASV00282																			
+ASV00283	Bacteria		Bacteroidota			Saprospiria						Saprospirales				Saprospiraceae			
+ASV00284	Bacteria		Bacteroidota			Cytophagia						Cytophagales							
+ASV00285	Eukaryota		Haptophyta																
+ASV00286	Bacteria		Bacteroidota																
+ASV00287	Eukaryota																		
+ASV00288	Bacteria		Pseudomonadota			Gammaproteobacteria						Vibrionales				Vibrionaceae		Photobacterium	
+ASV00289	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00290	Bacteria																		
+ASV00291																			
+ASV00292	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Monodontidae			
+ASV00293	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00294	Eukaryota		Bacillariophyta																
+ASV00295	Eukaryota		Bacillariophyta			Coscinodiscophyceae	Thalassiosirophycidae					Thalassiosirales							
+ASV00296	Bacteria		Pseudomonadota			Gammaproteobacteria						Pseudomonadales				Pseudomonadaceae		Pseudomonas	
+ASV00297	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00298	Bacteria		Fusobacteriota			Fusobacteriia						Fusobacteriales				Fusobacteriaceae			
+ASV00299	Eukaryota																		
+ASV00300	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales							
+ASV00301	Eukaryota																		
+ASV00302	Eukaryota																		
+ASV00303	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Weeksellaceae		Ornithobacterium	Ornithobacterium rhinotracheale
+ASV00304	Eukaryota					Dinophyceae						Dinophysales				Dinophysaceae		Phalacroma	Phalacroma mitra
+ASV00305	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00306	Bacteria		Pseudomonadota			Alphaproteobacteria						Sphingomonadales				Sphingomonadaceae		Sphingomonas	
+ASV00307	Bacteria		Pseudomonadota			Gammaproteobacteria						Alteromonadales				Pseudoalteromonadaceae		Pseudoalteromonas	
+ASV00308	Bacteria		Pseudomonadota			Betaproteobacteria						Nitrosomonadales				Methylophilaceae			
+ASV00309	Eukaryota		Haptophyta																
+ASV00310	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Flavobacteriaceae			
+ASV00311	Bacteria																		
+ASV00312	Bacteria		Pseudomonadota			Gammaproteobacteria						Pseudomonadales							
+ASV00313																			
+ASV00314																			
+ASV00315	Bacteria		Bacteroidota																
+ASV00316	Bacteria		Pseudomonadota																
+ASV00317	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00318	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales							
+ASV00319	Bacteria		Pseudomonadota			Gammaproteobacteria						Aeromonadales				Aeromonadaceae		Aeromonas	
+ASV00320	Bacteria		Bdellovibrionota			Bacteriovoracia						Bacteriovoracales							
+ASV00321	Eukaryota																		
+ASV00322	Eukaryota																		
+ASV00323	Bacteria		Bacteroidota			Cytophagia						Cytophagales							
+ASV00324																			
+ASV00325	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00326	Bacteria																		
+ASV00327	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00328	Bacteria		Planctomycetota			Planctomycetia						Pirellulales				Pirellulaceae		Rhodopirellula	
+ASV00329	Eukaryota																		
+ASV00330																			
+ASV00331	Eukaryota		Ciliophora	Intramacronucleata		Spirotrichea	Choreotrichia					Tintinnida				Tintinnidae			
+ASV00332	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales							
+ASV00333	Eukaryota																		
+ASV00334	Eukaryota																		
+ASV00335	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00336	Bacteria		Balneolota			Balneolia						Balneolales				Balneolaceae			
+ASV00337	Eukaryota		Rhodophyta			Florideophyceae	Rhodymeniophycidae												
+ASV00338	Eukaryota																		
+ASV00339	Bacteria		Pseudomonadota			Gammaproteobacteria						Alteromonadales				Moritellaceae		Moritella	
+ASV00340	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00341	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00342	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales							
+ASV00343	Bacteria		Bacteroidota																
+ASV00344	Bacteria		Balneolota			Balneolia						Balneolales				Balneolaceae			
+ASV00345	Bacteria																		
+ASV00346																			
+ASV00347	Eukaryota																		
+ASV00348	Eukaryota																		
+ASV00349	Bacteria		Pseudomonadota			Alphaproteobacteria						Rhodobacterales							
+ASV00350	Bacteria																		
+ASV00351	Eukaryota					Dinophyceae						Dinophysales				Dinophysaceae		Phalacroma	Phalacroma mitra
+ASV00352																			
+ASV00353	Bacteria																		
+ASV00354	Bacteria		Pseudomonadota			Gammaproteobacteria						Pasteurellales				Pasteurellaceae		Haemophilus	
+ASV00355	Bacteria		Pseudomonadota			Betaproteobacteria						Burkholderiales				Oxalobacteraceae			
+ASV00356	Bacteria																		
+ASV00357	Bacteria																		
+ASV00358	Bacteria		Balneolota			Balneolia						Balneolales				Balneolaceae			
+ASV00359	Eukaryota																		
+ASV00360	Bacteria		Planctomycetota			Planctomycetia						Pirellulales				Pirellulaceae		Rhodopirellula	
+ASV00361	Eukaryota		Haptophyta																
+ASV00362																			
+ASV00363	Bacteria		Cyanobacteriota			Cyanophyceae													
+ASV00364																			
+ASV00365	Eukaryota					Dinophyceae						Dinophysales				Dinophysaceae		Phalacroma	Phalacroma mitra
+ASV00366	Bacteria		Candidatus Saccharibacteria																
+ASV00367	Bacteria		Pseudomonadota			Gammaproteobacteria						Pseudomonadales				Pseudomonadaceae		Pseudomonas	
+ASV00368	Bacteria		Bacteroidota																
+ASV00369	Bacteria		Mycoplasmatota																
+ASV00370	Eukaryota	Metazoa	Chordata	Craniata	Actinopterygii	Actinopteri	Neopterygii	Teleostei	Otomorpha	Clupei		Clupeiformes	Clupeoidei			Engraulidae	Coilinae	Thryssa	Thryssa dussumieri
+ASV00371	Eukaryota		Haptophyta																
+ASV00372	Bacteria		Fusobacteriota			Fusobacteriia						Fusobacteriales				Fusobacteriaceae		Fusobacterium	
+ASV00373	Eukaryota																		
+ASV00374	Bacteria		Pseudomonadota			Alphaproteobacteria						Candidatus Pelagibacterales				Candidatus Pelagibacteraceae		Pelagibacter	
+ASV00375	Bacteria		Bacteroidota																
+ASV00376	Bacteria																		
+ASV00377	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Flavobacteriaceae			
+ASV00378	Eukaryota																		
+ASV00379	Eukaryota		Haptophyta									Isochrysidales				Noelaerhabdaceae			
+ASV00380	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00381	Bacteria		Myxococcota																
+ASV00382	Bacteria																		
+ASV00383	Bacteria		Pseudomonadota			Gammaproteobacteria						Moraxellales				Moraxellaceae		Psychrobacter	
+ASV00384	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00385	Eukaryota																		
+ASV00386																			
+ASV00387	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti				
+ASV00388	Bacteria		Bacteroidota			Cytophagia						Cytophagales							
+ASV00389	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00390	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea					
+ASV00391	Bacteria		Actinomycetota																
+ASV00392																			
+ASV00393	Bacteria																		
+ASV00394	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00395	Bacteria		Pseudomonadota			Betaproteobacteria													
+ASV00396	Bacteria																		
+ASV00397	Bacteria		Pseudomonadota			Alphaproteobacteria						Candidatus Pelagibacterales				Candidatus Pelagibacteraceae		Pelagibacter	
+ASV00398	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales							
+ASV00399	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Flavobacteriaceae			
+ASV00400	Bacteria																		
+ASV00401	Bacteria																		
+ASV00402	Bacteria																		
+ASV00403	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Flavobacteriaceae			
+ASV00404	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla							
+ASV00405	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00406	Bacteria		Pseudomonadota			Betaproteobacteria						Burkholderiales				Oxalobacteraceae			
+ASV00407	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Flavobacteriaceae			
+ASV00408	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00409																			
+ASV00410																			
+ASV00411	Eukaryota																		
+ASV00412	Bacteria		Pseudomonadota			Gammaproteobacteria						Moraxellales				Moraxellaceae		Psychrobacter	
+ASV00413	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00414	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00415	Eukaryota					Dinophyceae						Dinophysales				Dinophysaceae		Phalacroma	Phalacroma mitra
+ASV00416	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Flavobacteriaceae			
+ASV00417	Bacteria		Bacteroidota			Cytophagia						Cytophagales							
+ASV00418	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00419	Bacteria																		
+ASV00420	Eukaryota		Cercozoa			Chlorarachniophyceae													
+ASV00421	Bacteria																		
+ASV00422	Bacteria		Planctomycetota																
+ASV00423	Eukaryota																		
+ASV00424																			
+ASV00425	Eukaryota																		
+ASV00426	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00427	Eukaryota		Euglenozoa			Euglenida	Euglenophyceae					Eutreptiales						Eutreptiella	
+ASV00428	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00429	Bacteria		Fusobacteriota			Fusobacteriia						Fusobacteriales				Fusobacteriaceae		Fusobacterium	
+ASV00430	Bacteria																		
+ASV00431	Bacteria		Planctomycetota																
+ASV00432	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00433	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Flavobacteriaceae			
+ASV00434	Bacteria		Bacteroidota			Saprospiria						Saprospirales				Lewinellaceae			
+ASV00435	Eukaryota		Bacillariophyta			Bacillariophyceae						Bacillariales				Bacillariaceae			
+ASV00436	Bacteria																		
+ASV00437	Bacteria																		
+ASV00438	Bacteria		Pseudomonadota			Gammaproteobacteria						Pasteurellales				Pasteurellaceae			
+ASV00439	Bacteria		Pseudomonadota			Gammaproteobacteria						Enterobacterales							
+ASV00440	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00441	Eukaryota																		
+ASV00442	Bacteria																		
+ASV00443	Eukaryota																		
+ASV00444	Eukaryota		Bacillariophyta			Coscinodiscophyceae	Thalassiosirophycidae					Thalassiosirales							
+ASV00445																			
+ASV00446																			
+ASV00447	Bacteria																		
+ASV00448	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00449	Bacteria		Bacteroidota			Bacteroidia													
+ASV00450	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00451	Bacteria		Pseudomonadota																
+ASV00452	Eukaryota																		
+ASV00453	Bacteria		Pseudomonadota			Alphaproteobacteria						Sphingomonadales							
+ASV00454	Bacteria																		
+ASV00455	Bacteria		Pseudomonadota			Alphaproteobacteria						Rhodobacterales							
+ASV00456	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00457	Eukaryota																		
+ASV00458	Bacteria		Pseudomonadota			Gammaproteobacteria						Pasteurellales				Pasteurellaceae		Haemophilus	
+ASV00459	Eukaryota	Viridiplantae	Chlorophyta			Chlorodendrophyceae						Chlorodendrales				Chlorodendraceae		Tetraselmis	
+ASV00460	Bacteria		Bacteroidota																
+ASV00461	Eukaryota					Dinophyceae						Dinophysales				Dinophysaceae		Phalacroma	Phalacroma mitra
+ASV00462	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00463	Bacteria		Pseudomonadota			Alphaproteobacteria						Hyphomicrobiales							
+ASV00464	Bacteria																		
+ASV00465	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00466	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00467	Bacteria		Bacillota			Clostridia						Eubacteriales				Clostridiaceae		Clostridium	
+ASV00468	Eukaryota																		
+ASV00469	Bacteria		Mycoplasmatota			Mollicutes						Acholeplasmatales				Acholeplasmataceae			
+ASV00470	Bacteria		Verrucomicrobiota																
+ASV00471	Bacteria		Actinomycetota			Actinomycetes													
+ASV00472	Eukaryota																		
+ASV00473	Bacteria		Pseudomonadota			Gammaproteobacteria						Oceanospirillales							
+ASV00474	Bacteria		Pseudomonadota			Alphaproteobacteria						Sphingomonadales				Sphingomonadaceae		Sphingomonas	
+ASV00475	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti				
+ASV00476	Bacteria		Pseudomonadota			Gammaproteobacteria						Alteromonadales				Pseudoalteromonadaceae		Pseudoalteromonas	
+ASV00477	Bacteria		Pseudomonadota			Alphaproteobacteria						Sphingomonadales							
+ASV00478	Bacteria		Bdellovibrionota			Bdellovibrionia						Bdellovibrionales				Pseudobdellovibrionaceae			
+ASV00479	Bacteria		Pseudomonadota																
+ASV00480	Bacteria																		
+ASV00481	Bacteria		Pseudomonadota			Gammaproteobacteria						Chromatiales				Chromatiaceae		Nitrosococcus	
+ASV00482	Bacteria		Candidatus Omnitrophota																
+ASV00483	Bacteria																		
+ASV00484	Bacteria																		bacterium
+ASV00485																			
+ASV00486	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00487	Eukaryota																		
+ASV00488	Bacteria																		
+ASV00489	Bacteria																		
+ASV00490	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00491	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00492	Bacteria		Bacteroidota			Bacteroidia						Marinilabiliales				Marinifilaceae		Marinifilum	
+ASV00493	Bacteria																		
+ASV00494	Eukaryota		Bacillariophyta			Bacillariophyceae										Entomoneidaceae		Entomoneis	Entomoneis sp.
+ASV00495																			
+ASV00496	Bacteria																		
+ASV00497	Bacteria		Bacillota			Bacilli						Bacillales				Paenibacillaceae		Paenibacillus	
+ASV00498	Bacteria																		
+ASV00499	Bacteria		Bacteroidota			Cytophagia						Cytophagales							
+ASV00500																			
+ASV00501	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00502	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00503	Bacteria		Pseudomonadota			Alphaproteobacteria						Candidatus Pelagibacterales				Candidatus Pelagibacteraceae		Pelagibacter	
+ASV00504	Bacteria		Fusobacteriota			Fusobacteriia						Fusobacteriales				Fusobacteriaceae			
+ASV00505	Bacteria		Bacteroidota			Saprospiria						Saprospirales							
+ASV00506																			
+ASV00507																			
+ASV00508	Eukaryota					Raphidophyceae						Chattonellales				Chattonellaceae			
+ASV00509	Bacteria																		
+ASV00510	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti				
+ASV00511																			
+ASV00512	Bacteria		Bacteroidota			Saprospiria						Saprospirales							
+ASV00513	Bacteria		Pseudomonadota			Gammaproteobacteria						Oceanospirillales				Halomonadaceae			
+ASV00514																			
+ASV00515	Bacteria																		
+ASV00516																			
+ASV00517																			
+ASV00518	Bacteria		Pseudomonadota			Alphaproteobacteria						Hyphomicrobiales							
+ASV00519																			
+ASV00520	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00521																			
+ASV00522	Bacteria																		
+ASV00523	Bacteria		Verrucomicrobiota			Verrucomicrobiae						Verrucomicrobiales				Rubritaleaceae		Rubritalea	
+ASV00524	Bacteria																		
+ASV00525	Bacteria		Pseudomonadota			Gammaproteobacteria						Oceanospirillales				Oceanospirillaceae			
+ASV00526	Eukaryota	Viridiplantae	Chlorophyta			Mamiellophyceae						Dolichomastigales							
+ASV00527	Bacteria		Pseudomonadota			Gammaproteobacteria						Aeromonadales				Aeromonadaceae		Aeromonas	
+ASV00528	Bacteria																		
+ASV00529	Bacteria		Bacteroidota																
+ASV00530	Bacteria																		
+ASV00531	Bacteria																		
+ASV00532	Bacteria																		
+ASV00533	Eukaryota		Bacillariophyta																
+ASV00534	Bacteria																		
+ASV00535	Bacteria																		
+ASV00536	Eukaryota																		
+ASV00537	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Flavobacteriaceae			
+ASV00538	Bacteria		Pseudomonadota			Gammaproteobacteria						Aeromonadales				Aeromonadaceae		Aeromonas	
+ASV00539	Bacteria		Bacteroidota			Cytophagia						Cytophagales				Persicobacteraceae			
+ASV00540	Eukaryota																		
+ASV00541	Eukaryota																		
+ASV00542	Eukaryota																		
+ASV00543	Eukaryota																		
+ASV00544																			
+ASV00545	Bacteria																		
+ASV00546	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00547	Bacteria		Pseudomonadota			Gammaproteobacteria						Thiotrichales				Thiotrichaceae		Thiomargarita	
+ASV00548	Bacteria																		
+ASV00549	Bacteria		Bacillota			Clostridia													
+ASV00550	Bacteria		Pseudomonadota			Gammaproteobacteria						Alteromonadales				Alteromonadaceae		Alteromonas	
+ASV00551	Bacteria																		
+ASV00552	Archaea		Nitrososphaerota			Nitrososphaeria						Nitrosopumilales				Nitrosopumilaceae			
+ASV00553	Bacteria		Bacteroidota			Saprospiria						Saprospirales				Saprospiraceae			
+ASV00554	Bacteria																		
+ASV00555	Bacteria																		
+ASV00556	Bacteria																		
+ASV00557	Eukaryota																		
+ASV00558	Bacteria																		
+ASV00559																			
+ASV00560	Eukaryota																		
+ASV00561	Bacteria		Pseudomonadota																
+ASV00562																			
+ASV00563	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Flavobacteriaceae			
+ASV00564	Bacteria																		
+ASV00565																			
+ASV00566	Bacteria																		
+ASV00567	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Flavobacteriaceae		Tenacibaculum	
+ASV00568	Eukaryota																		
+ASV00569	Bacteria		Nitrospinota			Nitrospinia						Nitrospinales				Nitrospinaceae		Nitrospina	
+ASV00570	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00571																			
+ASV00572																			
+ASV00573	Bacteria		Bacteroidota			Cytophagia						Cytophagales							
+ASV00574	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Phocoenidae			
+ASV00575	Bacteria		Pseudomonadota			Gammaproteobacteria						Enterobacterales							
+ASV00576																			
+ASV00577	Bacteria																		
+ASV00578	Eukaryota																		
+ASV00579																			
+ASV00580	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00581	Bacteria																		
+ASV00582	Bacteria		Pseudomonadota			Alphaproteobacteria						Candidatus Pelagibacterales				Candidatus Pelagibacteraceae		Pelagibacter	
+ASV00583	Bacteria		Bacteroidota			Bacteroidia						Bacteroidales				Porphyromonadaceae		Porphyromonas	
+ASV00584	Bacteria		Cyanobacteriota			Cyanophyceae													
+ASV00585	Bacteria																		
+ASV00586	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00587	Bacteria																		
+ASV00588	Eukaryota																		
+ASV00589	Bacteria		Planctomycetota			Planctomycetia						Planctomycetales				Planctomycetaceae			
+ASV00590	Eukaryota		Cercozoa			Chlorarachniophyceae													
+ASV00591	Bacteria																		
+ASV00592	Bacteria																		
+ASV00593	Eukaryota		Haptophyta																
+ASV00594																			
+ASV00595	Eukaryota																		
+ASV00596	Bacteria		Pseudomonadota																
+ASV00597	Bacteria		Bacteroidota			Bacteroidia						Bacteroidales				Bacteroidaceae		Bacteroides	Bacteroides luti
+ASV00598	Bacteria																		
+ASV00599	Eukaryota		Haptophyta									Pavlovales				Pavlovaceae			
+ASV00600	Bacteria		Bacteroidota																
+ASV00601	Bacteria		Pseudomonadota			Betaproteobacteria						Nitrosomonadales				Nitrosomonadaceae			
+ASV00602	Bacteria																		
+ASV00603	Bacteria		Bacteroidota																
+ASV00604	Bacteria		Pseudomonadota			Alphaproteobacteria						Rhodobacterales							
+ASV00605	Bacteria					Deltaproteobacteria						Bradymonadales							
+ASV00606	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00607	Eukaryota		Haptophyta																
+ASV00608	Bacteria		Chlamydiota			Chlamydiia						Parachlamydiales				Simkaniaceae			
+ASV00609	Bacteria		Verrucomicrobiota			Verrucomicrobiae						Verrucomicrobiales				Verrucomicrobiaceae			
+ASV00610	Bacteria		Pseudomonadota			Gammaproteobacteria						Alteromonadales				Alteromonadaceae			
+ASV00611																			
+ASV00612	Eukaryota																		
+ASV00613	Bacteria																		
+ASV00614	Bacteria		Actinomycetota			Actinomycetes						Mycobacteriales							
+ASV00615	Bacteria																		
+ASV00616	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea					
+ASV00617	Eukaryota	Metazoa	Chordata	Craniata	Actinopterygii	Actinopteri	Neopterygii	Teleostei	Euteleosteomorpha			Perciformes	Cottioidei	Hexagrammales		Hexagrammidae			
+ASV00618	Bacteria		Bacteroidota																
+ASV00619	Bacteria		Bacillota			Bacilli													
+ASV00620	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00621	Bacteria		Pseudomonadota			Alphaproteobacteria						Rhodobacterales							
+ASV00622	Bacteria																		
+ASV00623	Bacteria		Bacteroidota																
+ASV00624	Eukaryota	Viridiplantae	Chlorophyta			Mamiellophyceae						Dolichomastigales							
+ASV00625	Eukaryota																		
+ASV00626	Eukaryota	Viridiplantae	Chlorophyta			Nephroselmidophyceae						Nephroselmidales				Nephroselmidaceae		Nephroselmis	Nephroselmis pyriformis
+ASV00627	Bacteria																		
+ASV00628	Bacteria		Pseudomonadota			Alphaproteobacteria						Rhodobacterales				Paracoccaceae		Pontivivens	
+ASV00629	Eukaryota	Viridiplantae	Chlorophyta			Chlorodendrophyceae						Chlorodendrales				Chlorodendraceae		Tetraselmis	
+ASV00630	Bacteria		Pseudomonadota			Gammaproteobacteria						Thiotrichales				Francisellaceae		Francisella	
+ASV00631	Bacteria																		
+ASV00632	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales							
+ASV00633	Bacteria		Bacteroidota			Cytophagia						Cytophagales							
+ASV00634	Bacteria																		
+ASV00635	Bacteria		Planctomycetota			Planctomycetia						Planctomycetales				Planctomycetaceae			
+ASV00636	Bacteria																		
+ASV00637	Bacteria		Pseudomonadota			Gammaproteobacteria													
+ASV00638	Bacteria																		
+ASV00639	Bacteria		Pseudomonadota			Alphaproteobacteria						Sphingomonadales				Sphingomonadaceae			
+ASV00640																			
+ASV00641	Bacteria																		
+ASV00642	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Flavobacteriaceae			
+ASV00643	Eukaryota																		
+ASV00644																			
+ASV00645	Bacteria		Bdellovibrionota			Bacteriovoracia						Bacteriovoracales				Bacteriovoracaceae			
+ASV00646	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00647	Bacteria																		
+ASV00648	Eukaryota		Haptophyta																
+ASV00649	Bacteria																		
+ASV00650	Bacteria		Bacteroidota			Cytophagia						Cytophagales							
+ASV00651	Bacteria																		
+ASV00652	Bacteria		Pseudomonadota			Gammaproteobacteria						Moraxellales				Moraxellaceae		Acinetobacter	
+ASV00653	Bacteria																		
+ASV00654	Bacteria		Actinomycetota			Actinomycetes													
+ASV00655	Eukaryota		Cercozoa			Chlorarachniophyceae													
+ASV00656	Bacteria		Cyanobacteriota																
+ASV00657	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00658	Bacteria																		
+ASV00659																			
+ASV00660	Eukaryota		Bacillariophyta																
+ASV00661																			
+ASV00662																			
+ASV00663																			
+ASV00664																			
+ASV00665	Bacteria																		
+ASV00666	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00667	Bacteria		Pseudomonadota			Alphaproteobacteria						Candidatus Pelagibacterales				Candidatus Pelagibacteraceae		Pelagibacter	
+ASV00668	Bacteria																		
+ASV00669	Bacteria		Bacteroidota																
+ASV00670	Bacteria		Bacillota			Tissierellia						Tissierellales				Peptoniphilaceae		Helcococcus	Helcococcus ovis
+ASV00671	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Flavobacteriaceae			
+ASV00672	Bacteria																		
+ASV00673																			
+ASV00674	Bacteria		Bacillota			Clostridia						Lachnospirales				Lachnospiraceae			
+ASV00675	Archaea		Euryarchaeota			Halobacteria						Halobacteriales							
+ASV00676	Bacteria																		
+ASV00677	Bacteria																		
+ASV00678	Bacteria		Bacteroidota			Bacteroidia						Bacteroidales				Porphyromonadaceae		Porphyromonas	
+ASV00679	Bacteria		Bacteroidota																
+ASV00680	Bacteria		Pseudomonadota			Gammaproteobacteria						Xanthomonadales				Xanthomonadaceae			
+ASV00681	Bacteria																		
+ASV00682	Bacteria																		
+ASV00683																			
+ASV00684																			
+ASV00685	Bacteria		Nitrospinota			Nitrospinia						Nitrospinales				Nitrospinaceae			
+ASV00686																			
+ASV00687	Bacteria																		bacterium
+ASV00688	Bacteria																		
+ASV00689																			
+ASV00690	Bacteria																		
+ASV00691	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea					
+ASV00692	Bacteria																		
+ASV00693	Bacteria																		
+ASV00694	Bacteria		Bacillota			Bacilli						Lactobacillales				Lactobacillaceae			
+ASV00695	Bacteria																		
+ASV00696																			
+ASV00697	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00698	Eukaryota		Cercozoa			Chlorarachniophyceae													
+ASV00699	Bacteria																		
+ASV00700																			
+ASV00701																			
+ASV00702																			
+ASV00703	Bacteria																		
+ASV00704	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae		Pseudorca	Pseudorca crassidens
+ASV00705	Eukaryota		Bacillariophyta			Bacillariophyceae													
+ASV00706	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00707	Bacteria																		
+ASV00708	Bacteria		Cyanobacteriota			Cyanophyceae													
+ASV00709	Bacteria		Myxococcota																
+ASV00710	Bacteria		Pseudomonadota			Gammaproteobacteria						Pasteurellales				Pasteurellaceae			
+ASV00711	Bacteria																		
+ASV00712																			
+ASV00713																			
+ASV00714	Bacteria		Bacillota			Clostridia													
+ASV00715	Bacteria																		
+ASV00716	Bacteria		Bacillota			Bacilli						Lactobacillales				Streptococcaceae		Lactococcus	
+ASV00717	Bacteria		Bacillota			Clostridia													
+ASV00718	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00719	Bacteria		Pseudomonadota			Gammaproteobacteria						Oceanospirillales				Endozoicomonadaceae		Endozoicomonas	
+ASV00720	Bacteria																		
+ASV00721	Bacteria		Balneolota			Balneolia						Balneolales				Balneolaceae		Gracilimonas	
+ASV00722																			
+ASV00723	Bacteria																		
+ASV00724																			
+ASV00725	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00726	Bacteria																		
+ASV00727	Bacteria		Actinomycetota			Actinomycetes													
+ASV00728	Bacteria																		
+ASV00729																			
+ASV00730																			
+ASV00731	Bacteria																		
+ASV00732	Bacteria		Lentisphaerota																
+ASV00733	Bacteria																		
+ASV00734	Bacteria		Planctomycetota																
+ASV00735																			
+ASV00736	Bacteria		Pseudomonadota			Alphaproteobacteria													
+ASV00737	Bacteria		Bacteroidota																
+ASV00738	Bacteria																		
+ASV00739	Bacteria		Verrucomicrobiota			Verrucomicrobiae						Verrucomicrobiales				Rubritaleaceae		Rubritalea	
+ASV00740																			
+ASV00741	Bacteria																		
+ASV00742	Bacteria		Pseudomonadota																
+ASV00743	Bacteria		Verrucomicrobiota			Opitutae													
+ASV00744	Eukaryota		Ciliophora	Intramacronucleata															
+ASV00745	Bacteria																		
+ASV00746	Eukaryota		Euglenozoa			Euglenida	Euglenophyceae					Eutreptiales						Eutreptiella	Eutreptiella gymnastica
+ASV00747																			
+ASV00748																			
+ASV00749	Eukaryota		Bacillariophyta			Bacillariophyceae						Naviculales				Pleurosigmataceae		Pleurosigma	
+ASV00750	Bacteria																		

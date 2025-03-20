@@ -1,0 +1,595 @@
+query	superkingdom	kingdom	phylum	subphylum	superclass	class	subclass	infraclass	cohort	subcohort	superorder	order	suborder	infraorder	parvorder	family	subfamily	genus	species
+OTU00001	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae			
+OTU00002	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae		Pseudorca	Pseudorca crassidens
+OTU00003	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae			
+OTU00004	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae			
+OTU00005	Eukaryota																		
+OTU00006	Bacteria		Pseudomonadota			Gammaproteobacteria						Alteromonadales				Alteromonadaceae			
+OTU00007	Bacteria																		
+OTU00008	Bacteria		Pseudomonadota			Gammaproteobacteria						Alteromonadales							
+OTU00009	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales							
+OTU00010	Bacteria		Pseudomonadota			Alphaproteobacteria						Rhodobacterales							
+OTU00011	Bacteria																		
+OTU00012																			
+OTU00013	Bacteria																		
+OTU00014	Bacteria		Cyanobacteriota			Cyanophyceae						Synechococcales				Synechococcaceae		Synechococcus	
+OTU00015	Bacteria		Bacteroidota																
+OTU00016	Eukaryota																		
+OTU00017																			
+OTU00018	Bacteria		Pseudomonadota			Gammaproteobacteria						Alteromonadales							
+OTU00019																			
+OTU00020	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Suina			Suidae		Sus	Sus scrofa
+OTU00021	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales							
+OTU00022	Bacteria		Pseudomonadota			Gammaproteobacteria													
+OTU00023	Bacteria		Pseudomonadota			Gammaproteobacteria						Vibrionales				Vibrionaceae		Vibrio	
+OTU00024	Eukaryota																		
+OTU00025	Bacteria																		
+OTU00026	Bacteria		Verrucomicrobiota			Opitutae													
+OTU00027	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae			
+OTU00028	Eukaryota		Haptophyta									Phaeocystales				Phaeocystaceae		Phaeocystis	
+OTU00029	Eukaryota																		
+OTU00030	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Flavobacteriaceae			
+OTU00031	Eukaryota																		
+OTU00032	Eukaryota																		
+OTU00033	Bacteria																		
+OTU00034	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea					
+OTU00035																			
+OTU00036	Eukaryota																		
+OTU00037																			
+OTU00038	Bacteria		Fusobacteriota			Fusobacteriia						Fusobacteriales				Fusobacteriaceae			
+OTU00039	Eukaryota																		
+OTU00040	Eukaryota																		
+OTU00041	Bacteria		Pseudomonadota			Gammaproteobacteria													
+OTU00042	Eukaryota		Bacillariophyta																
+OTU00043	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea					
+OTU00044	Bacteria		Pseudomonadota			Alphaproteobacteria						Sphingomonadales				Sphingomonadaceae			
+OTU00045																			
+OTU00046																			
+OTU00047	Eukaryota		Bacillariophyta																
+OTU00048	Bacteria		Pseudomonadota			Gammaproteobacteria						Alteromonadales				Pseudoalteromonadaceae		Pseudoalteromonas	
+OTU00049	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Flavobacteriaceae			
+OTU00050	Eukaryota																		
+OTU00051	Bacteria		Pseudomonadota			Alphaproteobacteria													
+OTU00052																			
+OTU00053	Bacteria		Verrucomicrobiota			Opitutae													
+OTU00054	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae			
+OTU00055	Bacteria		Pseudomonadota			Alphaproteobacteria						Rhodobacterales							
+OTU00056	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae			
+OTU00057	Bacteria		Pseudomonadota			Alphaproteobacteria													
+OTU00058	Bacteria																		
+OTU00059	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Carnivora	Caniformia			Canidae		Canis	Canis lupus
+OTU00060	Eukaryota																		
+OTU00061	Bacteria																		
+OTU00062	Bacteria																		
+OTU00063	Bacteria																		
+OTU00064	Bacteria		Pseudomonadota			Alphaproteobacteria						Rhodobacterales							
+OTU00065	Bacteria		Pseudomonadota			Gammaproteobacteria						Alteromonadales				Pseudoalteromonadaceae		Pseudoalteromonas	
+OTU00066	Eukaryota																		
+OTU00067	Eukaryota		Cercozoa			Chlorarachniophyceae													
+OTU00068	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Flavobacteriaceae			
+OTU00069	Bacteria		Pseudomonadota			Gammaproteobacteria						Thiotrichales				Thiotrichaceae			
+OTU00070	Bacteria																		
+OTU00071																			
+OTU00072	Eukaryota		Haptophyta																
+OTU00073	Eukaryota																		
+OTU00074	Bacteria		Pseudomonadota			Gammaproteobacteria						Oceanospirillales				Halomonadaceae			
+OTU00075	Eukaryota																		
+OTU00076	Bacteria		Pseudomonadota			Gammaproteobacteria						Alteromonadales				Pseudoalteromonadaceae		Pseudoalteromonas	
+OTU00077	Bacteria		Pseudomonadota			Alphaproteobacteria													
+OTU00078	Eukaryota		Bacillariophyta			Coscinodiscophyceae	Thalassiosirophycidae												
+OTU00079	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Flavobacteriaceae			
+OTU00080	Eukaryota																		
+OTU00081																			
+OTU00082	Bacteria		Pseudomonadota			Alphaproteobacteria						Candidatus Pelagibacterales				Candidatus Pelagibacteraceae		Pelagibacter	
+OTU00083	Bacteria																		
+OTU00084	Eukaryota		Cercozoa			Chlorarachniophyceae													
+OTU00085	Eukaryota		Bacillariophyta																
+OTU00086	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales							
+OTU00087																			
+OTU00088	Bacteria		Pseudomonadota			Gammaproteobacteria													
+OTU00089	Eukaryota																		
+OTU00090	Bacteria		Pseudomonadota			Gammaproteobacteria						Alteromonadales							
+OTU00091	Bacteria																		
+OTU00092	Bacteria		Bacteroidota																
+OTU00093	Eukaryota																		
+OTU00094	Bacteria		Verrucomicrobiota																
+OTU00095	Bacteria		Pseudomonadota			Gammaproteobacteria						Vibrionales				Vibrionaceae		Vibrio	
+OTU00096	Bacteria																		
+OTU00097	Eukaryota					Dinophyceae						Dinophysales				Dinophysaceae		Phalacroma	Phalacroma mitra
+OTU00098	Bacteria																		
+OTU00099	Eukaryota																		
+OTU00100	Bacteria																		
+OTU00101	Bacteria		Pseudomonadota			Alphaproteobacteria													
+OTU00102	Bacteria		Pseudomonadota			Alphaproteobacteria													
+OTU00103	Bacteria		Pseudomonadota			Gammaproteobacteria													
+OTU00104	Bacteria		Pseudomonadota			Gammaproteobacteria						Pseudomonadales				Marinobacteraceae		Marinobacter	
+OTU00105	Eukaryota																		
+OTU00106																			
+OTU00107	Bacteria		Pseudomonadota			Alphaproteobacteria													
+OTU00108	Bacteria		Pseudomonadota			Alphaproteobacteria						Hyphomicrobiales				Rhizobiaceae			
+OTU00109	Bacteria																		
+OTU00110	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae			
+OTU00111	Eukaryota																		
+OTU00112	Bacteria																		
+OTU00113	Bacteria																		
+OTU00114																			
+OTU00115	Bacteria		Verrucomicrobiota																
+OTU00116	Bacteria		Pseudomonadota			Gammaproteobacteria													SAR86 cluster bacterium
+OTU00117	Bacteria		Pseudomonadota			Alphaproteobacteria						Sphingomonadales							
+OTU00118																			
+OTU00119																			
+OTU00120	Bacteria		Pseudomonadota			Alphaproteobacteria						Rhodobacterales							
+OTU00121	Eukaryota		Haptophyta									Isochrysidales				Noelaerhabdaceae			
+OTU00122																			
+OTU00123																			
+OTU00124																			
+OTU00125	Bacteria		Pseudomonadota			Alphaproteobacteria						Rhodospirillales							
+OTU00126	Bacteria		Bacteroidota			Cytophagia						Cytophagales				Roseivirgaceae		Roseivirga	
+OTU00127	Bacteria																		
+OTU00128																			
+OTU00129	Bacteria		Bacillota			Clostridia						Peptostreptococcales				Peptostreptococcaceae			
+OTU00130																			
+OTU00131	Eukaryota		Cercozoa			Chlorarachniophyceae													
+OTU00132	Bacteria		Pseudomonadota			Alphaproteobacteria						Rhodobacterales							
+OTU00133	Bacteria		Actinomycetota			Actinomycetes	Candidatus Actinomarinidae					Candidatus Actinomarinales	Candidatus Actinomarineae			Candidatus Actinomarinaceae		Actinomarina	Candidatus Actinomarina minuta
+OTU00134																			
+OTU00135	Bacteria		Bacteroidota																
+OTU00136	Bacteria		Pseudomonadota			Betaproteobacteria													
+OTU00137	Bacteria		Pseudomonadota			Alphaproteobacteria						Hyphomicrobiales				Nitrobacteraceae			
+OTU00138																			
+OTU00139	Eukaryota																		
+OTU00140	Bacteria																		
+OTU00141	Bacteria		Bacteroidota																
+OTU00142	Bacteria		Pseudomonadota			Alphaproteobacteria						Hyphomicrobiales				Rhizobiaceae			
+OTU00143	Bacteria		Cyanobacteriota			Cyanophyceae						Synechococcales				Synechococcaceae		Synechococcus	
+OTU00144	Eukaryota					Cryptophyceae						Cryptomonadales				Hemiselmidaceae		Hemiselmis	
+OTU00145	Bacteria																		
+OTU00146	Bacteria		Bacteroidota																
+OTU00147	Bacteria		Pseudomonadota			Gammaproteobacteria													
+OTU00148	Bacteria		Pseudomonadota			Alphaproteobacteria													
+OTU00149	Eukaryota																		
+OTU00150	Bacteria		Pseudomonadota			Gammaproteobacteria						Pasteurellales				Pasteurellaceae			
+OTU00151	Bacteria		Pseudomonadota			Alphaproteobacteria													
+OTU00152	Bacteria		Pseudomonadota			Alphaproteobacteria						Candidatus Pelagibacterales				Candidatus Pelagibacteraceae		Pelagibacter	
+OTU00153	Bacteria																		
+OTU00154	Bacteria																		
+OTU00155	Bacteria		Pseudomonadota			Gammaproteobacteria						Pseudomonadales				Pseudomonadaceae		Pseudomonas	
+OTU00156	Eukaryota		Cercozoa			Chlorarachniophyceae													
+OTU00157	Eukaryota					Cryptophyceae						Pyrenomonadales							
+OTU00158	Bacteria		Pseudomonadota			Gammaproteobacteria						Aeromonadales				Aeromonadaceae		Aeromonas	
+OTU00159	Eukaryota																		
+OTU00160	Bacteria																		
+OTU00161	Eukaryota					Dinophyceae						Dinophysales				Dinophysaceae		Phalacroma	Phalacroma mitra
+OTU00162	Bacteria		Pseudomonadota			Alphaproteobacteria						Sphingomonadales				Sphingomonadaceae			
+OTU00163																			
+OTU00164	Bacteria		Bacillota			Clostridia						Eubacteriales				Clostridiaceae		Clostridium	
+OTU00165	Bacteria																		
+OTU00166	Eukaryota		Haptophyta																
+OTU00167																			
+OTU00168																			
+OTU00169	Bacteria		Cyanobacteriota			Cyanophyceae						Synechococcales							
+OTU00170	Bacteria		Bacteroidota																
+OTU00171	Bacteria																		bacterium
+OTU00172	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Flavobacteriaceae		Tenacibaculum	
+OTU00173	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae			
+OTU00174	Eukaryota		Bacillariophyta			Coscinodiscophyceae	Thalassiosirophycidae					Thalassiosirales				Thalassiosiraceae			
+OTU00175	Bacteria																		
+OTU00176	Bacteria		Pseudomonadota			Gammaproteobacteria						Moraxellales				Moraxellaceae		Psychrobacter	
+OTU00177	Bacteria		Balneolota			Balneolia						Balneolales				Balneolaceae			
+OTU00178	Eukaryota					Cryptophyceae						Pyrenomonadales							
+OTU00179	Bacteria		Bacteroidota																
+OTU00180	Eukaryota		Haptophyta																
+OTU00181	Bacteria		Pseudomonadota			Alphaproteobacteria													
+OTU00182	Bacteria																		
+OTU00183	Bacteria																		
+OTU00184	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales							
+OTU00185	Bacteria		Pseudomonadota			Betaproteobacteria						Burkholderiales							
+OTU00186	Bacteria		Pseudomonadota			Gammaproteobacteria													
+OTU00187																			
+OTU00188	Bacteria		Pseudomonadota			Alphaproteobacteria													
+OTU00189	Eukaryota																		
+OTU00190																			
+OTU00191	Bacteria		Actinomycetota			Actinomycetes													
+OTU00192	Bacteria		Pseudomonadota			Gammaproteobacteria													
+OTU00193	Bacteria		Pseudomonadota			Alphaproteobacteria						Hyphomicrobiales				Methylobacteriaceae			
+OTU00194	Bacteria																		
+OTU00195	Eukaryota																		
+OTU00196	Eukaryota																		
+OTU00197	Bacteria																		
+OTU00198	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti				
+OTU00199	Bacteria																		
+OTU00200	Bacteria		Pseudomonadota			Gammaproteobacteria						Pseudomonadales				Pseudomonadaceae			
+OTU00201	Bacteria		Pseudomonadota			Betaproteobacteria						Burkholderiales				Burkholderiaceae			
+OTU00202	Bacteria		Pseudomonadota			Alphaproteobacteria													
+OTU00203	Bacteria		Pseudomonadota																
+OTU00204	Eukaryota		Cercozoa			Chlorarachniophyceae													
+OTU00205	Bacteria																		
+OTU00206	Bacteria		Bacteroidota																
+OTU00207																			
+OTU00208	Bacteria		Pseudomonadota			Alphaproteobacteria													
+OTU00209																			
+OTU00210	Bacteria		Pseudomonadota			Gammaproteobacteria													
+OTU00211	Eukaryota																		
+OTU00212																			
+OTU00213	Bacteria		Bacteroidota			Saprospiria						Saprospirales				Saprospiraceae			
+OTU00214	Eukaryota																		
+OTU00215	Bacteria		Pseudomonadota			Gammaproteobacteria													
+OTU00216																			
+OTU00217	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Monodontidae			
+OTU00218	Bacteria		Pseudomonadota			Alphaproteobacteria													
+OTU00219	Eukaryota		Bacillariophyta																
+OTU00220	Eukaryota		Bacillariophyta			Coscinodiscophyceae	Thalassiosirophycidae					Thalassiosirales							
+OTU00221	Bacteria		Pseudomonadota			Gammaproteobacteria						Pseudomonadales				Pseudomonadaceae		Pseudomonas	
+OTU00222	Eukaryota																		
+OTU00223	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales							
+OTU00224	Eukaryota																		
+OTU00225	Bacteria		Pseudomonadota			Gammaproteobacteria													
+OTU00226	Bacteria		Pseudomonadota			Alphaproteobacteria						Sphingomonadales				Sphingomonadaceae		Sphingomonas	
+OTU00227	Bacteria		Pseudomonadota			Gammaproteobacteria						Alteromonadales				Pseudoalteromonadaceae		Pseudoalteromonas	
+OTU00228	Eukaryota		Haptophyta																
+OTU00229	Bacteria																		
+OTU00230	Bacteria		Pseudomonadota			Gammaproteobacteria						Pseudomonadales							
+OTU00231	Bacteria		Pseudomonadota																
+OTU00232	Bacteria		Pseudomonadota			Gammaproteobacteria													
+OTU00233	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales							
+OTU00234	Bacteria		Bdellovibrionota			Bacteriovoracia						Bacteriovoracales							
+OTU00235	Eukaryota																		
+OTU00236	Bacteria		Bacteroidota			Cytophagia						Cytophagales							
+OTU00237																			
+OTU00238	Bacteria		Pseudomonadota			Gammaproteobacteria													
+OTU00239	Bacteria																		
+OTU00240	Bacteria		Pseudomonadota			Gammaproteobacteria													
+OTU00241	Bacteria		Planctomycetota			Planctomycetia						Pirellulales				Pirellulaceae		Rhodopirellula	
+OTU00242																			
+OTU00243	Eukaryota		Ciliophora	Intramacronucleata		Spirotrichea	Choreotrichia					Tintinnida				Tintinnidae			
+OTU00244	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales							
+OTU00245	Eukaryota																		
+OTU00246	Bacteria		Pseudomonadota			Gammaproteobacteria													
+OTU00247	Bacteria		Balneolota			Balneolia						Balneolales				Balneolaceae			
+OTU00248	Eukaryota		Rhodophyta			Florideophyceae	Rhodymeniophycidae												
+OTU00249	Bacteria		Pseudomonadota			Gammaproteobacteria						Alteromonadales				Moritellaceae		Moritella	
+OTU00250	Bacteria		Pseudomonadota			Gammaproteobacteria													
+OTU00251	Bacteria																		
+OTU00252																			
+OTU00253	Eukaryota																		
+OTU00254	Eukaryota																		
+OTU00255	Bacteria		Pseudomonadota			Alphaproteobacteria						Rhodobacterales							
+OTU00256	Bacteria																		
+OTU00257																			
+OTU00258	Bacteria		Pseudomonadota			Gammaproteobacteria						Pasteurellales				Pasteurellaceae		Haemophilus	
+OTU00259	Bacteria		Pseudomonadota			Betaproteobacteria						Burkholderiales				Oxalobacteraceae			
+OTU00260	Bacteria																		
+OTU00261	Eukaryota																		
+OTU00262																			
+OTU00263	Bacteria		Cyanobacteriota			Cyanophyceae													
+OTU00264																			
+OTU00265	Bacteria		Candidatus Saccharibacteria																
+OTU00266	Bacteria		Pseudomonadota			Gammaproteobacteria						Pseudomonadales				Pseudomonadaceae		Pseudomonas	
+OTU00267	Bacteria		Mycoplasmatota																
+OTU00268	Eukaryota	Metazoa	Chordata	Craniata	Actinopterygii	Actinopteri	Neopterygii	Teleostei	Otomorpha	Clupei		Clupeiformes	Clupeoidei			Engraulidae	Coilinae	Thryssa	Thryssa dussumieri
+OTU00269	Bacteria		Fusobacteriota			Fusobacteriia						Fusobacteriales				Fusobacteriaceae		Fusobacterium	
+OTU00270	Eukaryota																		
+OTU00271	Bacteria		Bacteroidota																
+OTU00272	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Flavobacteriaceae			
+OTU00273	Eukaryota																		
+OTU00274	Bacteria																		
+OTU00275	Bacteria																		
+OTU00276	Bacteria		Pseudomonadota			Gammaproteobacteria						Moraxellales				Moraxellaceae		Psychrobacter	
+OTU00277	Eukaryota																		
+OTU00278																			
+OTU00279	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti				
+OTU00280	Bacteria		Bacteroidota			Cytophagia						Cytophagales							
+OTU00281	Bacteria		Pseudomonadota			Gammaproteobacteria													
+OTU00282	Bacteria		Actinomycetota																
+OTU00283																			
+OTU00284	Bacteria																		
+OTU00285	Bacteria		Pseudomonadota			Alphaproteobacteria													
+OTU00286	Bacteria		Pseudomonadota			Betaproteobacteria													
+OTU00287	Bacteria		Pseudomonadota			Alphaproteobacteria						Candidatus Pelagibacterales				Candidatus Pelagibacteraceae		Pelagibacter	
+OTU00288	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Flavobacteriaceae			
+OTU00289	Bacteria																		
+OTU00290	Bacteria																		
+OTU00291	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Flavobacteriaceae			
+OTU00292	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla							
+OTU00293	Bacteria		Pseudomonadota			Betaproteobacteria						Burkholderiales				Oxalobacteraceae			
+OTU00294	Bacteria		Pseudomonadota			Gammaproteobacteria													
+OTU00295																			
+OTU00296	Eukaryota																		
+OTU00297	Bacteria		Pseudomonadota			Alphaproteobacteria													
+OTU00298	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Flavobacteriaceae			
+OTU00299	Bacteria		Bacteroidota			Cytophagia						Cytophagales							
+OTU00300	Bacteria		Pseudomonadota			Gammaproteobacteria													
+OTU00301	Bacteria																		
+OTU00302	Eukaryota		Cercozoa			Chlorarachniophyceae													
+OTU00303	Bacteria																		
+OTU00304	Bacteria		Planctomycetota																
+OTU00305	Eukaryota																		
+OTU00306																			
+OTU00307	Eukaryota																		
+OTU00308	Bacteria		Pseudomonadota			Alphaproteobacteria													
+OTU00309	Eukaryota		Euglenozoa			Euglenida	Euglenophyceae					Eutreptiales						Eutreptiella	
+OTU00310	Bacteria		Pseudomonadota			Alphaproteobacteria													
+OTU00311	Bacteria																		
+OTU00312	Bacteria		Planctomycetota																
+OTU00313	Bacteria		Pseudomonadota			Alphaproteobacteria													
+OTU00314	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Flavobacteriaceae			
+OTU00315	Bacteria		Bacteroidota			Saprospiria						Saprospirales				Lewinellaceae			
+OTU00316	Bacteria																		
+OTU00317	Bacteria																		
+OTU00318	Bacteria		Pseudomonadota			Gammaproteobacteria													
+OTU00319	Bacteria																		
+OTU00320	Eukaryota																		
+OTU00321																			
+OTU00322	Bacteria																		
+OTU00323	Bacteria		Bacteroidota			Bacteroidia													
+OTU00324	Bacteria		Pseudomonadota			Alphaproteobacteria													
+OTU00325	Bacteria		Pseudomonadota																
+OTU00326	Bacteria																		
+OTU00327	Bacteria		Pseudomonadota			Alphaproteobacteria						Rhodobacterales							
+OTU00328	Bacteria		Pseudomonadota			Gammaproteobacteria													
+OTU00329	Eukaryota																		
+OTU00330	Eukaryota	Viridiplantae	Chlorophyta			Chlorodendrophyceae						Chlorodendrales				Chlorodendraceae		Tetraselmis	
+OTU00331	Bacteria		Bacteroidota																
+OTU00332	Bacteria		Pseudomonadota			Alphaproteobacteria													
+OTU00333	Bacteria		Pseudomonadota			Alphaproteobacteria						Hyphomicrobiales							
+OTU00334	Bacteria		Pseudomonadota			Gammaproteobacteria													
+OTU00335	Bacteria		Bacillota			Clostridia						Eubacteriales				Clostridiaceae		Clostridium	
+OTU00336	Eukaryota																		
+OTU00337	Bacteria		Mycoplasmatota			Mollicutes						Acholeplasmatales				Acholeplasmataceae			
+OTU00338	Bacteria		Verrucomicrobiota																
+OTU00339	Bacteria		Actinomycetota			Actinomycetes													
+OTU00340	Eukaryota																		
+OTU00341	Bacteria		Pseudomonadota			Alphaproteobacteria						Sphingomonadales				Sphingomonadaceae		Sphingomonas	
+OTU00342	Bacteria		Pseudomonadota			Alphaproteobacteria						Sphingomonadales							
+OTU00343	Bacteria		Bdellovibrionota			Bdellovibrionia						Bdellovibrionales				Pseudobdellovibrionaceae			
+OTU00344	Bacteria		Pseudomonadota																
+OTU00345	Bacteria																		
+OTU00346	Bacteria		Candidatus Omnitrophota																
+OTU00347	Bacteria																		
+OTU00348	Bacteria																		bacterium
+OTU00349	Bacteria		Pseudomonadota			Alphaproteobacteria													
+OTU00350	Eukaryota																		
+OTU00351	Bacteria																		
+OTU00352	Bacteria		Pseudomonadota			Alphaproteobacteria													
+OTU00353	Bacteria		Pseudomonadota			Alphaproteobacteria													
+OTU00354	Bacteria		Bacteroidota			Bacteroidia						Marinilabiliales				Marinifilaceae		Marinifilum	
+OTU00355	Eukaryota		Bacillariophyta			Bacillariophyceae										Entomoneidaceae		Entomoneis	Entomoneis sp.
+OTU00356																			
+OTU00357	Bacteria																		
+OTU00358	Bacteria		Bacillota			Bacilli						Bacillales				Paenibacillaceae		Paenibacillus	
+OTU00359	Bacteria																		
+OTU00360	Bacteria		Bacteroidota			Cytophagia						Cytophagales							
+OTU00361	Bacteria		Pseudomonadota			Alphaproteobacteria						Rhodobacterales				Paracoccaceae			
+OTU00362	Bacteria		Pseudomonadota			Alphaproteobacteria						Candidatus Pelagibacterales				Candidatus Pelagibacteraceae		Pelagibacter	
+OTU00363																			
+OTU00364																			
+OTU00365	Eukaryota					Raphidophyceae						Chattonellales				Chattonellaceae			
+OTU00366	Bacteria																		
+OTU00367																			
+OTU00368	Bacteria																		
+OTU00369	Bacteria		Pseudomonadota			Gammaproteobacteria						Oceanospirillales				Halomonadaceae			
+OTU00370																			
+OTU00371	Bacteria																		
+OTU00372																			
+OTU00373	Bacteria		Pseudomonadota			Alphaproteobacteria						Hyphomicrobiales							
+OTU00374																			
+OTU00375	Bacteria		Pseudomonadota			Gammaproteobacteria													
+OTU00376																			
+OTU00377	Bacteria																		
+OTU00378	Bacteria		Verrucomicrobiota			Verrucomicrobiae						Verrucomicrobiales				Rubritaleaceae		Rubritalea	
+OTU00379	Bacteria																		
+OTU00380	Bacteria		Pseudomonadota			Gammaproteobacteria						Oceanospirillales				Oceanospirillaceae			
+OTU00381	Eukaryota	Viridiplantae	Chlorophyta			Mamiellophyceae						Dolichomastigales							
+OTU00382	Bacteria																		
+OTU00383	Bacteria		Bacteroidota																
+OTU00384	Bacteria																		
+OTU00385	Bacteria																		
+OTU00386	Bacteria																		
+OTU00387	Bacteria																		
+OTU00388	Bacteria																		
+OTU00389	Eukaryota																		
+OTU00390	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Flavobacteriaceae			
+OTU00391	Bacteria		Bacteroidota			Cytophagia						Cytophagales				Persicobacteraceae			
+OTU00392	Eukaryota																		
+OTU00393	Eukaryota																		
+OTU00394	Eukaryota																		
+OTU00395	Eukaryota																		
+OTU00396	Bacteria																		
+OTU00397	Bacteria		Pseudomonadota			Gammaproteobacteria						Thiotrichales				Thiotrichaceae		Thiomargarita	
+OTU00398	Bacteria																		
+OTU00399	Bacteria		Bacillota			Clostridia													
+OTU00400	Bacteria		Pseudomonadota			Gammaproteobacteria						Alteromonadales				Alteromonadaceae		Alteromonas	
+OTU00401	Bacteria																		
+OTU00402	Archaea		Nitrososphaerota			Nitrososphaeria						Nitrosopumilales				Nitrosopumilaceae			
+OTU00403	Bacteria		Bacteroidota			Saprospiria						Saprospirales				Saprospiraceae			
+OTU00404	Bacteria																		
+OTU00405	Bacteria																		
+OTU00406	Bacteria																		
+OTU00407	Eukaryota																		
+OTU00408	Bacteria																		
+OTU00409																			
+OTU00410	Eukaryota																		
+OTU00411	Bacteria		Pseudomonadota																
+OTU00412																			
+OTU00413	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Flavobacteriaceae			
+OTU00414	Bacteria																		
+OTU00415																			
+OTU00416	Bacteria																		
+OTU00417	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Flavobacteriaceae		Tenacibaculum	
+OTU00418	Eukaryota																		
+OTU00419	Bacteria		Nitrospinota			Nitrospinia						Nitrospinales				Nitrospinaceae		Nitrospina	
+OTU00420	Bacteria		Pseudomonadota			Gammaproteobacteria													
+OTU00421																			
+OTU00422																			
+OTU00423	Bacteria		Bacteroidota			Cytophagia						Cytophagales							
+OTU00424	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Phocoenidae			
+OTU00425	Bacteria		Pseudomonadota			Gammaproteobacteria						Enterobacterales							
+OTU00426																			
+OTU00427	Bacteria																		
+OTU00428	Eukaryota																		
+OTU00429																			
+OTU00430	Bacteria		Pseudomonadota			Alphaproteobacteria													
+OTU00431	Bacteria																		
+OTU00432	Bacteria		Pseudomonadota			Alphaproteobacteria						Candidatus Pelagibacterales				Candidatus Pelagibacteraceae		Pelagibacter	
+OTU00433	Bacteria		Bacteroidota			Bacteroidia						Bacteroidales				Porphyromonadaceae		Porphyromonas	
+OTU00434	Bacteria		Cyanobacteriota			Cyanophyceae													
+OTU00435	Bacteria																		
+OTU00436	Bacteria		Pseudomonadota			Alphaproteobacteria													
+OTU00437	Eukaryota																		
+OTU00438	Bacteria		Planctomycetota			Planctomycetia						Planctomycetales				Planctomycetaceae			
+OTU00439	Eukaryota		Cercozoa			Chlorarachniophyceae													
+OTU00440	Bacteria																		
+OTU00441	Bacteria																		
+OTU00442	Eukaryota		Haptophyta																
+OTU00443																			
+OTU00444	Eukaryota																		
+OTU00445	Bacteria		Pseudomonadota																
+OTU00446	Bacteria		Bacteroidota			Bacteroidia						Bacteroidales				Bacteroidaceae		Bacteroides	Bacteroides luti
+OTU00447	Bacteria																		
+OTU00448	Eukaryota		Haptophyta									Pavlovales				Pavlovaceae			
+OTU00449	Bacteria		Bacteroidota																
+OTU00450	Bacteria		Pseudomonadota			Betaproteobacteria						Nitrosomonadales				Nitrosomonadaceae			
+OTU00451	Bacteria																		
+OTU00452	Bacteria		Bacteroidota																
+OTU00453	Bacteria		Pseudomonadota			Alphaproteobacteria						Rhodobacterales							
+OTU00454	Bacteria					Deltaproteobacteria						Bradymonadales							
+OTU00455	Bacteria		Pseudomonadota			Alphaproteobacteria													
+OTU00456	Bacteria		Chlamydiota			Chlamydiia						Parachlamydiales				Simkaniaceae			
+OTU00457	Bacteria		Verrucomicrobiota			Verrucomicrobiae						Verrucomicrobiales				Verrucomicrobiaceae			
+OTU00458	Bacteria		Pseudomonadota			Gammaproteobacteria						Alteromonadales				Alteromonadaceae			
+OTU00459																			
+OTU00460	Eukaryota																		
+OTU00461	Bacteria																		
+OTU00462	Bacteria		Actinomycetota			Actinomycetes						Mycobacteriales							
+OTU00463	Bacteria																		
+OTU00464	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea					
+OTU00465	Eukaryota	Metazoa	Chordata	Craniata	Actinopterygii	Actinopteri	Neopterygii	Teleostei	Euteleosteomorpha			Perciformes	Cottioidei	Hexagrammales		Hexagrammidae			
+OTU00466	Bacteria		Bacteroidota																
+OTU00467	Bacteria		Bacillota			Bacilli													
+OTU00468	Bacteria		Pseudomonadota			Gammaproteobacteria													
+OTU00469	Bacteria		Pseudomonadota			Alphaproteobacteria						Rhodobacterales							
+OTU00470	Bacteria																		
+OTU00471	Bacteria		Bacteroidota																
+OTU00472	Eukaryota	Viridiplantae	Chlorophyta			Mamiellophyceae						Dolichomastigales							
+OTU00473	Eukaryota																		
+OTU00474	Eukaryota	Viridiplantae	Chlorophyta			Nephroselmidophyceae						Nephroselmidales				Nephroselmidaceae		Nephroselmis	Nephroselmis pyriformis
+OTU00475	Bacteria																		
+OTU00476	Bacteria		Pseudomonadota			Alphaproteobacteria						Rhodobacterales				Paracoccaceae		Pontivivens	
+OTU00477	Bacteria		Pseudomonadota			Gammaproteobacteria						Thiotrichales				Francisellaceae		Francisella	
+OTU00478	Bacteria																		
+OTU00479	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales							
+OTU00480	Bacteria		Bacteroidota			Cytophagia						Cytophagales							
+OTU00481	Bacteria																		
+OTU00482	Bacteria		Planctomycetota			Planctomycetia						Planctomycetales				Planctomycetaceae			
+OTU00483	Bacteria																		
+OTU00484	Bacteria		Pseudomonadota			Gammaproteobacteria													
+OTU00485	Bacteria																		
+OTU00486	Bacteria		Pseudomonadota			Alphaproteobacteria						Sphingomonadales				Sphingomonadaceae			
+OTU00487																			
+OTU00488	Bacteria																		
+OTU00489	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Flavobacteriaceae			
+OTU00490	Eukaryota																		
+OTU00491																			
+OTU00492	Bacteria		Bdellovibrionota			Bacteriovoracia						Bacteriovoracales				Bacteriovoracaceae			
+OTU00493	Bacteria		Pseudomonadota			Alphaproteobacteria													
+OTU00494	Bacteria																		
+OTU00495	Bacteria																		
+OTU00496	Bacteria		Bacteroidota			Cytophagia						Cytophagales							
+OTU00497	Bacteria																		
+OTU00498	Bacteria		Pseudomonadota			Gammaproteobacteria						Moraxellales				Moraxellaceae		Acinetobacter	
+OTU00499	Bacteria																		
+OTU00500	Bacteria		Actinomycetota			Actinomycetes													
+OTU00501	Eukaryota		Cercozoa			Chlorarachniophyceae													
+OTU00502	Bacteria		Cyanobacteriota																
+OTU00503	Bacteria		Pseudomonadota			Alphaproteobacteria													
+OTU00504	Bacteria																		
+OTU00505																			
+OTU00506	Eukaryota		Bacillariophyta																
+OTU00507																			
+OTU00508																			
+OTU00509																			
+OTU00510																			
+OTU00511	Bacteria																		
+OTU00512	Bacteria		Pseudomonadota			Alphaproteobacteria													
+OTU00513	Bacteria		Pseudomonadota			Alphaproteobacteria						Candidatus Pelagibacterales				Candidatus Pelagibacteraceae		Pelagibacter	
+OTU00514	Bacteria																		
+OTU00515	Bacteria		Bacteroidota																
+OTU00516	Bacteria		Bacillota			Tissierellia						Tissierellales				Peptoniphilaceae		Helcococcus	Helcococcus ovis
+OTU00517	Bacteria		Bacteroidota			Flavobacteriia						Flavobacteriales				Flavobacteriaceae			
+OTU00518	Bacteria																		
+OTU00519																			
+OTU00520	Bacteria		Bacillota			Clostridia						Lachnospirales				Lachnospiraceae			
+OTU00521	Archaea		Euryarchaeota			Halobacteria						Halobacteriales							
+OTU00522	Bacteria																		
+OTU00523	Bacteria																		
+OTU00524	Bacteria		Bacteroidota			Bacteroidia						Bacteroidales				Porphyromonadaceae		Porphyromonas	
+OTU00525	Bacteria		Bacteroidota																
+OTU00526	Bacteria		Pseudomonadota			Gammaproteobacteria						Xanthomonadales				Xanthomonadaceae			
+OTU00527	Bacteria																		
+OTU00528	Bacteria																		
+OTU00529																			
+OTU00530																			
+OTU00531	Bacteria		Nitrospinota			Nitrospinia						Nitrospinales				Nitrospinaceae			
+OTU00532																			
+OTU00533	Bacteria																		bacterium
+OTU00534	Bacteria																		
+OTU00535																			
+OTU00536	Bacteria																		
+OTU00537	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea					
+OTU00538	Bacteria																		
+OTU00539	Bacteria																		
+OTU00540	Bacteria		Bacillota			Bacilli						Lactobacillales				Lactobacillaceae			
+OTU00541	Bacteria																		
+OTU00542																			
+OTU00543	Bacteria		Pseudomonadota			Alphaproteobacteria													
+OTU00544	Eukaryota		Cercozoa			Chlorarachniophyceae													
+OTU00545	Bacteria																		
+OTU00546																			
+OTU00547																			
+OTU00548																			
+OTU00549	Bacteria																		
+OTU00550	Eukaryota		Bacillariophyta			Bacillariophyceae													
+OTU00551	Bacteria		Pseudomonadota			Alphaproteobacteria													
+OTU00552	Bacteria																		
+OTU00553	Bacteria		Cyanobacteriota			Cyanophyceae													
+OTU00554	Bacteria		Myxococcota																
+OTU00555	Bacteria		Pseudomonadota			Gammaproteobacteria						Pasteurellales				Pasteurellaceae			
+OTU00556	Bacteria																		
+OTU00557																			
+OTU00558																			
+OTU00559	Bacteria		Bacillota			Clostridia													
+OTU00560	Bacteria																		
+OTU00561	Bacteria		Bacillota			Bacilli						Lactobacillales				Streptococcaceae		Lactococcus	
+OTU00562	Bacteria		Bacillota			Clostridia													
+OTU00563	Bacteria		Pseudomonadota			Alphaproteobacteria													
+OTU00564	Bacteria																		
+OTU00565	Bacteria		Balneolota			Balneolia						Balneolales				Balneolaceae		Gracilimonas	
+OTU00566																			
+OTU00567	Bacteria																		
+OTU00568																			
+OTU00569	Bacteria		Pseudomonadota			Alphaproteobacteria													
+OTU00570	Bacteria																		
+OTU00571	Bacteria		Actinomycetota			Actinomycetes													
+OTU00572	Bacteria																		
+OTU00573	Bacteria		Bacteroidota			Bacteroidia						Bacteroidales							
+OTU00574																			
+OTU00575	Bacteria																		
+OTU00576	Bacteria		Lentisphaerota																
+OTU00577	Bacteria		Bacteroidota																
+OTU00578	Bacteria		Planctomycetota																
+OTU00579																			
+OTU00580	Bacteria		Pseudomonadota			Alphaproteobacteria													
+OTU00581	Bacteria		Bacteroidota																
+OTU00582	Bacteria																		
+OTU00583	Bacteria		Verrucomicrobiota			Verrucomicrobiae						Verrucomicrobiales				Rubritaleaceae		Rubritalea	
+OTU00584																			
+OTU00585	Bacteria																		
+OTU00586	Bacteria		Pseudomonadota																
+OTU00587	Bacteria		Verrucomicrobiota			Opitutae													
+OTU00588	Eukaryota		Ciliophora	Intramacronucleata															
+OTU00589	Bacteria																		
+OTU00590	Eukaryota		Euglenozoa			Euglenida	Euglenophyceae					Eutreptiales						Eutreptiella	Eutreptiella gymnastica
+OTU00591																			
+OTU00592																			
+OTU00593	Eukaryota		Bacillariophyta			Bacillariophyceae						Naviculales				Pleurosigmataceae		Pleurosigma	
+OTU00594	Bacteria																		

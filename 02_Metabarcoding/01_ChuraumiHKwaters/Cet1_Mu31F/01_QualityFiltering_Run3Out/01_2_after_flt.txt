@@ -1,0 +1,27 @@
+file                                             format  type  num_seqs    sum_len  min_len  avg_len  max_len     Q1   Q2   Q3  sum_gap  N50  Q20(%)  Q30(%)
+S001_FKDL240081149-1A_HCGM3DRX5_flt_R1.fastq.gz  FASTQ   DNA     24,747  6,186,654      234      250      250    250  250  250        0  250   97.63   93.43
+S001_FKDL240081149-1A_HCGM3DRX5_flt_R2.fastq.gz  FASTQ   DNA     24,747  6,186,621      229      250      250    250  250  250        0  250   97.83    93.4
+S002_FKDL240081149-1A_HCGM3DRX5_flt_R1.fastq.gz  FASTQ   DNA     26,353  6,588,058      205      250      250    250  250  250        0  250   97.54   93.16
+S002_FKDL240081149-1A_HCGM3DRX5_flt_R2.fastq.gz  FASTQ   DNA     26,353  6,588,109      199      250      250    250  250  250        0  250   97.55   92.73
+S003_FKDL240081149-1A_HCGM3DRX5_flt_R1.fastq.gz  FASTQ   DNA     21,126  5,281,484      234      250      250    250  250  250        0  250   97.53   93.24
+S003_FKDL240081149-1A_HCGM3DRX5_flt_R2.fastq.gz  FASTQ   DNA     21,126  5,281,387      180      250      250    250  250  250        0  250   97.83   93.56
+S004_FKDL240081149-1A_HCGM3DRX5_flt_R1.fastq.gz  FASTQ   DNA     23,202  5,800,266      160      250      250    250  250  250        0  250   97.69   93.55
+S004_FKDL240081149-1A_HCGM3DRX5_flt_R2.fastq.gz  FASTQ   DNA     23,202  5,800,158      146      250      250    250  250  250        0  250   97.85   93.37
+S005_FKDL240081149-1A_HCGM3DRX5_flt_R1.fastq.gz  FASTQ   DNA     21,302  5,325,388      202      250      250    250  250  250        0  250   97.65   93.48
+S005_FKDL240081149-1A_HCGM3DRX5_flt_R2.fastq.gz  FASTQ   DNA     21,302  5,325,413      234      250      250    250  250  250        0  250   97.85   93.41
+S006_FKDL240081149-1A_HCGM3DRX5_flt_R1.fastq.gz  FASTQ   DNA     24,908  6,226,962      223      250      250    250  250  250        0  250   97.62   93.34
+S006_FKDL240081149-1A_HCGM3DRX5_flt_R2.fastq.gz  FASTQ   DNA     24,908  6,226,961      232      250      250    250  250  250        0  250   97.57    92.8
+S007_FKDL240081149-1A_HCGM3DRX5_flt_R1.fastq.gz  FASTQ   DNA     24,628  6,156,978      239      250      250    250  250  250        0  250   97.38   93.01
+S007_FKDL240081149-1A_HCGM3DRX5_flt_R2.fastq.gz  FASTQ   DNA     24,628  6,156,989      239      250      250    250  250  250        0  250   97.54   92.95
+S008_FKDL240081149-1A_HCGM3DRX5_flt_R1.fastq.gz  FASTQ   DNA        132     33,000      250      250      250    125  250  125        0  250   98.01   94.26
+S008_FKDL240081149-1A_HCGM3DRX5_flt_R2.fastq.gz  FASTQ   DNA        132     33,000      250      250      250    125  250  125        0  250   98.01   93.81
+S010_FKDL240081149-1A_HCGM3DRX5_flt_R1.fastq.gz                       0          0        0        0        0      0    0    0        0    0       0       0
+S010_FKDL240081149-1A_HCGM3DRX5_flt_R2.fastq.gz                       0          0        0        0        0      0    0    0        0    0       0       0
+S012_FKDL240081149-1A_HCGM3DRX5_flt_R1.fastq.gz  FASTQ   DNA          2        500      250      250      250    125  250  125        0  250    92.4    83.6
+S012_FKDL240081149-1A_HCGM3DRX5_flt_R2.fastq.gz  FASTQ   DNA          2        500      250      250      250    125  250  125        0  250    90.4    83.4
+S014_FKDL240081149-1A_HCGM3DRX5_flt_R1.fastq.gz  FASTQ   DNA        145     36,250      250      250      250    125  250  125        0  250   97.74   93.33
+S014_FKDL240081149-1A_HCGM3DRX5_flt_R2.fastq.gz  FASTQ   DNA        145     36,250      250      250      250    125  250  125        0  250   97.31   92.53
+S015_FKDL240081149-1A_HCGM3DRX5_flt_R1.fastq.gz  FASTQ   DNA          3        723      223      241      250  236.5  250  250        0  250   89.76   77.32
+S015_FKDL240081149-1A_HCGM3DRX5_flt_R2.fastq.gz  FASTQ   DNA          3        723      223      241      250  236.5  250  250        0  250   87.83   74.97
+S016_FKDL240081149-1A_HCGM3DRX5_flt_R1.fastq.gz                       0          0        0        0        0      0    0    0        0    0       0       0
+S016_FKDL240081149-1A_HCGM3DRX5_flt_R2.fastq.gz                       0          0        0        0        0      0    0    0        0    0       0       0

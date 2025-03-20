@@ -1,0 +1,25 @@
+file                                                 format  type  num_seqs    sum_len  min_len  avg_len  max_len     Q1   Q2     Q3  sum_gap  N50  Q20(%)  Q30(%)
+S049_FKDL240081149-1A_HCGM3DRX5_trimmed_R1.fastq.gz  FASTQ   DNA     23,544  5,297,522      213      225      227    225  225    225        0  225   96.86   90.96
+S049_FKDL240081149-1A_HCGM3DRX5_trimmed_R2.fastq.gz  FASTQ   DNA     23,544  5,438,781      228      231      232    231  231    231        0  231   97.32   91.26
+S050_FKDL240081149-1A_HCGM3DRX5_trimmed_R1.fastq.gz  FASTQ   DNA     25,396  5,714,133      121      225      227    225  225    225        0  225    96.7   90.95
+S050_FKDL240081149-1A_HCGM3DRX5_trimmed_R2.fastq.gz  FASTQ   DNA     25,396  5,866,629      182      231      232    231  231    231        0  231   97.27   91.46
+S051_FKDL240081149-1A_HCGM3DRX5_trimmed_R1.fastq.gz  FASTQ   DNA     23,934  5,385,269      223      225      227    225  225    225        0  225   96.65   90.74
+S051_FKDL240081149-1A_HCGM3DRX5_trimmed_R2.fastq.gz  FASTQ   DNA     23,934  5,528,773      201      231      232    231  231    231        0  231   97.29   91.57
+S052_FKDL240081149-1A_HCGM3DRX5_trimmed_R1.fastq.gz  FASTQ   DNA     21,739  4,891,358      224      225      227    225  225    225        0  225   96.79   90.83
+S052_FKDL240081149-1A_HCGM3DRX5_trimmed_R2.fastq.gz  FASTQ   DNA     21,739  5,021,835      228      231      232    231  231    231        0  231   97.13   90.61
+S053_FKDL240081149-1A_HCGM3DRX5_trimmed_R1.fastq.gz  FASTQ   DNA     22,134  4,980,247      222      225      227    225  225    225        0  225   96.86   91.01
+S053_FKDL240081149-1A_HCGM3DRX5_trimmed_R2.fastq.gz  FASTQ   DNA     22,134  5,113,032      218      231      232    231  231    231        0  231   97.13   90.54
+S054_FKDL240081149-1A_HCGM3DRX5_trimmed_R1.fastq.gz  FASTQ   DNA     22,997  5,174,410      204      225      227    225  225    225        0  225   96.82   91.05
+S054_FKDL240081149-1A_HCGM3DRX5_trimmed_R2.fastq.gz  FASTQ   DNA     22,997  5,312,436      208      231      232    231  231    231        0  231   97.36   91.59
+S055_FKDL240081149-1A_HCGM3DRX5_trimmed_R1.fastq.gz  FASTQ   DNA     24,816  5,583,717      213      225      227    225  225    225        0  225   96.58   90.33
+S055_FKDL240081149-1A_HCGM3DRX5_trimmed_R2.fastq.gz  FASTQ   DNA     24,816  5,732,568      182      231      232    231  231    231        0  231   97.42   91.68
+S056_FKDL240081149-1A_HCGM3DRX5_trimmed_R1.fastq.gz  FASTQ   DNA         14      3,150      225      225      225  112.5  225  112.5        0  225   95.59   88.98
+S056_FKDL240081149-1A_HCGM3DRX5_trimmed_R2.fastq.gz  FASTQ   DNA         14      3,234      231      231      231  115.5  231  115.5        0  231   97.31   91.77
+S058_FKDL240081149-1A_HCGM3DRX5_trimmed_R1.fastq.gz                       0          0        0        0        0      0    0      0        0    0       0       0
+S058_FKDL240081149-1A_HCGM3DRX5_trimmed_R2.fastq.gz                       0          0        0        0        0      0    0      0        0    0       0       0
+S060_FKDL240081149-1A_HCGM3DRX5_trimmed_R1.fastq.gz                       0          0        0        0        0      0    0      0        0    0       0       0
+S060_FKDL240081149-1A_HCGM3DRX5_trimmed_R2.fastq.gz                       0          0        0        0        0      0    0      0        0    0       0       0
+S062_FKDL240081149-1A_HCGM3DRX5_trimmed_R1.fastq.gz                       0          0        0        0        0      0    0      0        0    0       0       0
+S062_FKDL240081149-1A_HCGM3DRX5_trimmed_R2.fastq.gz                       0          0        0        0        0      0    0      0        0    0       0       0
+S063_FKDL240081149-1A_HCGM3DRX5_trimmed_R1.fastq.gz                       0          0        0        0        0      0    0      0        0    0       0       0
+S063_FKDL240081149-1A_HCGM3DRX5_trimmed_R2.fastq.gz                       0          0        0        0        0      0    0      0        0    0       0       0

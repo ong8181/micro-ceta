@@ -1,0 +1,44 @@
+query	superkingdom	kingdom	phylum	subphylum	superclass	class	subclass	infraclass	cohort	subcohort	superorder	order	suborder	infraorder	parvorder	superfamily	family	subfamily	tribe	genus	species
+OTU00001																					
+OTU00002	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+OTU00003	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+OTU00004	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+OTU00005	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Phocoenidae			Neophocaena	
+OTU00006	Eukaryota	Metazoa	Chordata	Craniata	Actinopterygii	Actinopteri	Neopterygii	Teleostei	Euteleosteomorpha			Scombriformes					Scombridae	Scombrinae	Scombrini	Scomber	
+OTU00007	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Carnivora	Caniformia				Canidae			Canis	Canis lupus
+OTU00008	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+OTU00009	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+OTU00010	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Euarchontoglires	Primates	Haplorrhini	Simiiformes	Catarrhini	Hominoidea	Hominidae	Homininae		Homo	Homo sapiens
+OTU00011	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Euarchontoglires	Primates	Haplorrhini	Simiiformes	Catarrhini	Hominoidea	Hominidae	Homininae		Homo	Homo sapiens
+OTU00012	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+OTU00013	Eukaryota	Metazoa	Chordata	Craniata	Actinopterygii	Actinopteri	Neopterygii	Teleostei	Euteleosteomorpha			Scombriformes					Scombridae	Scombrinae	Thunnini	Auxis	
+OTU00014	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+OTU00015	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+OTU00016	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Euarchontoglires	Primates	Haplorrhini								
+OTU00017	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+OTU00018	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+OTU00019	Eukaryota	Metazoa	Chordata	Craniata	Actinopterygii	Actinopteri	Neopterygii	Teleostei	Otomorpha	Clupei		Clupeiformes	Clupeoidei				Clupeidae	Clupeinae			
+OTU00020	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+OTU00021	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti						
+OTU00022	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+OTU00023	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria										
+OTU00024	Eukaryota	Metazoa	Chordata	Craniata	Actinopterygii	Actinopteri	Neopterygii	Teleostei	Euteleosteomorpha			Carangiformes					Coryphaenidae			Coryphaena	
+OTU00025	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+OTU00026	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti						
+OTU00027	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti						
+OTU00028	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+OTU00029	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+OTU00030	Eukaryota	Metazoa	Chordata	Craniata	Actinopterygii	Actinopteri	Neopterygii	Teleostei	Euteleosteomorpha			Perciformes	Cottioidei	Hexagrammales			Hexagrammidae				
+OTU00031	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+OTU00032	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+OTU00033	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+OTU00034	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+OTU00035	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+OTU00036	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+OTU00037	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria										
+OTU00038	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+OTU00039	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti						
+OTU00040	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Euarchontoglires	Primates	Haplorrhini	Simiiformes	Catarrhini	Hominoidea	Hominidae	Homininae			
+OTU00041	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti						
+OTU00042	Eukaryota	Metazoa	Chordata	Craniata	Actinopterygii	Actinopteri	Neopterygii	Teleostei				Elopiformes					Elopidae			Elops	
+OTU00043	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							

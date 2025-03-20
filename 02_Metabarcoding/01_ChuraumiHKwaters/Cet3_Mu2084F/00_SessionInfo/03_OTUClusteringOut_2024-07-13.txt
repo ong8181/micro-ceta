@@ -1,0 +1,76 @@
+R version 4.2.2 Patched (2022-11-10 r83330)
+Platform: x86_64-pc-linux-gnu (64-bit)
+Running under: Ubuntu 22.04.4 LTS
+
+Matrix products: default
+BLAS:   /usr/lib/x86_64-linux-gnu/openblas-serial/libblas.so.3
+LAPACK: /usr/lib/x86_64-linux-gnu/openblas-serial/libopenblas-r0.3.20.so
+
+locale:
+ [1] LC_CTYPE=ja_JP.UTF-8       LC_NUMERIC=C              
+ [3] LC_TIME=ja_JP.UTF-8        LC_COLLATE=ja_JP.UTF-8    
+ [5] LC_MONETARY=ja_JP.UTF-8    LC_MESSAGES=ja_JP.UTF-8   
+ [7] LC_PAPER=ja_JP.UTF-8       LC_NAME=C                 
+ [9] LC_ADDRESS=C               LC_TELEPHONE=C            
+[11] LC_MEASUREMENT=ja_JP.UTF-8 LC_IDENTIFICATION=C       
+
+attached base packages:
+[1] parallel  stats4    stats     graphics  grDevices utils    
+[7] datasets  methods   base     
+
+other attached packages:
+ [1] speedyseq_0.5.3.9018        DECIPHER_2.26.0            
+ [3] RSQLite_2.3.1               dada2_1.26.0               
+ [5] Rcpp_1.0.11                 ShortRead_1.56.1           
+ [7] GenomicAlignments_1.34.1    SummarizedExperiment_1.28.0
+ [9] Biobase_2.58.0              MatrixGenerics_1.10.0      
+[11] matrixStats_1.0.0           Rsamtools_2.14.0           
+[13] GenomicRanges_1.50.2        Biostrings_2.66.0          
+[15] GenomeInfoDb_1.34.9         XVector_0.38.0             
+[17] IRanges_2.32.0              S4Vectors_0.36.2           
+[19] BiocParallel_1.32.6         BiocGenerics_0.44.0        
+[21] phyloseq_1.42.0             lubridate_1.9.2            
+[23] forcats_1.0.0               stringr_1.5.0              
+[25] dplyr_1.1.2                 purrr_1.0.2                
+[27] readr_2.1.4                 tidyr_1.3.0                
+[29] tibble_3.2.1                ggplot2_3.4.3              
+[31] tidyverse_2.0.0            
+
+loaded via a namespace (and not attached):
+ [1] nlme_3.1-163           bitops_1.0-7          
+ [3] bit64_4.0.5            RColorBrewer_1.1-3    
+ [5] tools_4.2.2            utf8_1.2.3            
+ [7] R6_2.5.1               vegan_2.6-4           
+ [9] DBI_1.1.3              mgcv_1.8-41           
+[11] colorspace_2.1-0       permute_0.9-7         
+[13] rhdf5filters_1.10.1    ade4_1.7-22           
+[15] withr_2.5.0            tidyselect_1.2.0      
+[17] bit_4.0.5              compiler_4.2.2        
+[19] cli_3.6.1              DelayedArray_0.24.0   
+[21] scales_1.2.1           digest_0.6.33         
+[23] jpeg_0.1-10            pkgconfig_2.0.3       
+[25] fastmap_1.1.1          rlang_1.1.1           
+[27] rstudioapi_0.15.0      generics_0.1.3        
+[29] hwriter_1.3.2.1        jsonlite_1.8.7        
+[31] RCurl_1.98-1.12        magrittr_2.0.3        
+[33] GenomeInfoDbData_1.2.9 interp_1.1-4          
+[35] biomformat_1.26.0      Matrix_1.6-1          
+[37] munsell_0.5.0          Rhdf5lib_1.20.0       
+[39] fansi_1.0.4            ape_5.7-1             
+[41] lifecycle_1.0.3        stringi_1.7.12        
+[43] MASS_7.3-60            zlibbioc_1.44.0       
+[45] rhdf5_2.42.1           plyr_1.8.8            
+[47] grid_4.2.2             blob_1.2.4            
+[49] crayon_1.5.2           deldir_1.0-9          
+[51] lattice_0.20-45        splines_4.2.2         
+[53] multtest_2.54.0        hms_1.1.3             
+[55] pillar_1.9.0           igraph_1.5.1          
+[57] reshape2_1.4.4         codetools_0.2-18      
+[59] glue_1.6.2             latticeExtra_0.6-30   
+[61] RcppParallel_5.1.7     data.table_1.14.8     
+[63] png_0.1-8              vctrs_0.6.3           
+[65] tzdb_0.4.0             foreach_1.5.2         
+[67] gtable_0.3.4           cachem_1.0.8          
+[69] survival_3.5-7         iterators_1.0.14      
+[71] memoise_2.0.1          cluster_2.1.4         
+[73] timechange_0.2.0      

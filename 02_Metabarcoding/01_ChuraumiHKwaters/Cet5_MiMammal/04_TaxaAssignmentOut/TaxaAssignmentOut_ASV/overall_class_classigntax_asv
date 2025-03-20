@@ -1,0 +1,108 @@
+query	superkingdom	kingdom	phylum	subphylum	superclass	class	subclass	infraclass	cohort	subcohort	superorder	order	suborder	infraorder	parvorder	superfamily	family	subfamily	tribe	genus	species
+ASV00001																					
+ASV00002	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00003	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00004	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00005	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae			Tursiops	Tursiops truncatus
+ASV00006	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00007	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00008	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00009	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00010	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00011	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00012	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00013	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae			Tursiops	Tursiops truncatus
+ASV00014	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00015	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00016	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Phocoenidae			Neophocaena	
+ASV00017	Eukaryota	Metazoa	Chordata	Craniata	Actinopterygii	Actinopteri	Neopterygii	Teleostei	Euteleosteomorpha			Scombriformes					Scombridae	Scombrinae	Scombrini	Scomber	
+ASV00018	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Carnivora	Caniformia				Canidae			Canis	Canis lupus
+ASV00019																					
+ASV00020	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00021	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Euarchontoglires	Primates	Haplorrhini	Simiiformes	Catarrhini	Hominoidea	Hominidae	Homininae		Homo	Homo sapiens
+ASV00022	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+ASV00023	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00024	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00025	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00026	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Euarchontoglires	Primates	Haplorrhini	Simiiformes	Catarrhini	Hominoidea	Hominidae	Homininae		Homo	Homo sapiens
+ASV00027																					
+ASV00028	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Euarchontoglires	Primates	Haplorrhini	Simiiformes	Catarrhini	Hominoidea	Hominidae	Homininae		Homo	Homo sapiens
+ASV00029	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00030	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00031																					
+ASV00032	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00033	Eukaryota	Metazoa	Chordata	Craniata	Actinopterygii	Actinopteri	Neopterygii	Teleostei	Euteleosteomorpha			Scombriformes					Scombridae	Scombrinae	Thunnini	Auxis	
+ASV00034	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00035	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+ASV00036	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00037	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00038	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Euarchontoglires	Primates	Haplorrhini								
+ASV00039	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00040	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00041	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00042	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+ASV00043	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00044	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00045	Eukaryota	Metazoa	Chordata	Craniata	Actinopterygii	Actinopteri	Neopterygii	Teleostei	Otomorpha	Clupei		Clupeiformes	Clupeoidei				Clupeidae	Clupeinae			
+ASV00046	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00047	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00048	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+ASV00049	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00050	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00051	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00052	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+ASV00053	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00054	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00055	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00056	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+ASV00057	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti						
+ASV00058	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00059	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00060	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00061	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+ASV00062	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+ASV00063	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+ASV00064	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria										
+ASV00065	Eukaryota	Metazoa	Chordata	Craniata	Actinopterygii	Actinopteri	Neopterygii	Teleostei	Euteleosteomorpha			Carangiformes					Coryphaenidae			Coryphaena	
+ASV00066	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00067	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00068	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+ASV00069	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00070	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+ASV00071	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti						
+ASV00072	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00073	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae			Tursiops	Tursiops truncatus
+ASV00074	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00075	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+ASV00076	Eukaryota	Metazoa	Chordata	Craniata	Actinopterygii	Actinopteri	Neopterygii	Teleostei	Euteleosteomorpha			Perciformes	Cottioidei	Hexagrammales			Hexagrammidae				
+ASV00077	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00078	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+ASV00079	Eukaryota	Metazoa	Chordata	Craniata	Actinopterygii	Actinopteri	Neopterygii	Teleostei	Otomorpha	Clupei		Clupeiformes	Clupeoidei				Clupeidae	Clupeinae		Clupea	
+ASV00080	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+ASV00081	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+ASV00082	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+ASV00083	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+ASV00084	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+ASV00085	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+ASV00086	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+ASV00087	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+ASV00088	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+ASV00089	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00090	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00091	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+ASV00092	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria										
+ASV00093	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00094	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00095	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+ASV00096	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+ASV00097	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti						
+ASV00098	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+ASV00099	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti						
+ASV00100	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti		Delphinidae				
+ASV00101	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Euarchontoglires	Primates	Haplorrhini	Simiiformes	Catarrhini	Hominoidea	Hominidae	Homininae			
+ASV00102	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+ASV00103	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							
+ASV00104	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti						
+ASV00105	Eukaryota	Metazoa	Chordata	Craniata	Actinopterygii	Actinopteri	Neopterygii	Teleostei				Elopiformes					Elopidae			Elops	
+ASV00106	Eukaryota	Metazoa	Chordata	Craniata	Actinopterygii	Actinopteri	Neopterygii	Teleostei	Euteleosteomorpha			Scombriformes					Scombridae	Scombrinae	Thunnini	Thunnus	
+ASV00107	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia					Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea							

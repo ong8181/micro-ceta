@@ -1,0 +1,13 @@
+file                                        format  type  num_seqs    sum_len  min_len  avg_len  max_len   Q1   Q2   Q3  sum_gap  N50  Q20(%)  Q30(%)
+S049_FKDL240081149-1A_HCGM3DRX5_L2_1.fq.gz  FASTQ   DNA     23,754  5,938,500      250      250      250  125  250  125        0  250   96.92   91.33
+S050_FKDL240081149-1A_HCGM3DRX5_L2_1.fq.gz  FASTQ   DNA     25,654  6,413,500      250      250      250  125  250  125        0  250   96.74   91.26
+S051_FKDL240081149-1A_HCGM3DRX5_L2_1.fq.gz  FASTQ   DNA     24,200  6,050,000      250      250      250  125  250  125        0  250   96.65   91.01
+S052_FKDL240081149-1A_HCGM3DRX5_L2_1.fq.gz  FASTQ   DNA     21,962  5,490,500      250      250      250  125  250  125        0  250   96.84   91.18
+S053_FKDL240081149-1A_HCGM3DRX5_L2_1.fq.gz  FASTQ   DNA     22,355  5,588,750      250      250      250  125  250  125        0  250   96.93   91.38
+S054_FKDL240081149-1A_HCGM3DRX5_L2_1.fq.gz  FASTQ   DNA     23,230  5,807,500      250      250      250  125  250  125        0  250   96.87   91.39
+S055_FKDL240081149-1A_HCGM3DRX5_L2_1.fq.gz  FASTQ   DNA     25,046  6,261,500      250      250      250  125  250  125        0  250   96.68   90.78
+S056_FKDL240081149-1A_HCGM3DRX5_L2_1.fq.gz  FASTQ   DNA         14      3,500      250      250      250  125  250  125        0  250   95.86    89.6
+S058_FKDL240081149-1A_HCGM3DRX5_L2_1.fq.gz  FASTQ   DNA         11      2,750      250      250      250  125  250  125        0  250   92.47   83.16
+S060_FKDL240081149-1A_HCGM3DRX5_L2_1.fq.gz  FASTQ   DNA          1        250      250      250      250  125  250  125        0  250    92.8    79.2
+S062_FKDL240081149-1A_HCGM3DRX5_L2_1.fq.gz  FASTQ   DNA          2        500      250      250      250  125  250  125        0  250    81.6    69.6
+S063_FKDL240081149-1A_HCGM3DRX5_L2_1.fq.gz  FASTQ   DNA          1        250      250      250      250  125  250  125        0  250    84.8    80.8

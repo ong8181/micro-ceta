@@ -1,0 +1,97 @@
+# ------------------------------------------------------------------------ #
+## Downloaded on 19 July 2023
+# ------------------------------------------------------------------------ #
+## For general mammals other than human and Cetacea
+## 32322 seqs
+("Vertebrata"[Organism] OR "vertebrates"[All Fields]) NOT "Homo sapiens"[Organism] NOT "Canis lupus"[Organism] NOT "Gallus gallus"[Organism] NOT "Bos taurus"[Organism] NOT "Bos grunniens"[Organism] NOT "Equus caballus"[Organism] NOT "Capra hircus"[Organism] NOT "Ovis aries"[Organism] AND (biomol_genomic[PROP] AND ddbj_embl_genbank[filter] AND is_nuccore[filter] AND mitochondrion[filter] AND ("15000"[SLEN] : "30000"[SLEN]) NOT Nuclear[Title])
+
+# !!
+## One vertebrate species (algae) was manually removed from the record (KX687880.1)
+# !!
+
+# Over-represented taxa
+## Homo sapiens (64361)
+"Homo sapiens"[Organism] AND (biomol_genomic[PROP] AND ddbj_embl_genbank[filter] AND is_nuccore[filter] AND mitochondrion[filter] AND ("15000"[SLEN] : "30000"[SLEN]) NOT Nuclear[Title])
+
+## Canis lupus (4139)
+"Canis lupus"[Organism] AND (biomol_genomic[PROP] AND ddbj_embl_genbank[filter] AND is_nuccore[filter] AND mitochondrion[filter] AND ("15000"[SLEN] : "30000"[SLEN]) NOT Nuclear[Title])
+
+## Bos taurus (1145)
+"Bos taurus"[Organism] AND (biomol_genomic[PROP] AND ddbj_embl_genbank[filter] AND is_nuccore[filter] AND mitochondrion[filter] AND ("15000"[SLEN] : "30000"[SLEN]) NOT Nuclear[Title])
+
+## Gallus gallus (829)
+"Gallus gallus"[Organism] AND (biomol_genomic[PROP] AND ddbj_embl_genbank[filter] AND is_nuccore[filter] AND mitochondrion[filter] AND ("15000"[SLEN] : "30000"[SLEN]) NOT Nuclear[Title])
+
+## Bos grunniens (617)
+"Bos grunniens"[Organism] AND (biomol_genomic[PROP] AND ddbj_embl_genbank[filter] AND is_nuccore[filter] AND mitochondrion[filter] AND ("15000"[SLEN] : "30000"[SLEN]) NOT Nuclear[Title])
+
+## Equus caballus (594)
+"Equus caballus"[Organism] AND (biomol_genomic[PROP] AND ddbj_embl_genbank[filter] AND is_nuccore[filter] AND mitochondrion[filter] AND ("15000"[SLEN] : "30000"[SLEN]) NOT Nuclear[Title])
+
+## Capra hircus (545)
+"Capra hircus"[Organism] AND (biomol_genomic[PROP] AND ddbj_embl_genbank[filter] AND is_nuccore[filter] AND mitochondrion[filter] AND ("15000"[SLEN] : "30000"[SLEN]) NOT Nuclear[Title])
+
+## Ovis aries (503)
+"Ovis aries"[Organism] AND (biomol_genomic[PROP] AND ddbj_embl_genbank[filter] AND is_nuccore[filter] AND mitochondrion[filter] AND ("15000"[SLEN] : "30000"[SLEN]) NOT Nuclear[Title])
+
+
+
+# -------------------------------------------------------------- #
+# Down-sampling over-represented taxa
+# -------------------------------------------------------------- #
+seqkit sample -n 500 Bos_grunniens_mt.fasta > n500_Bos_grunniens_mt.fasta
+seqkit sample -n 500 Bos_taurus_mt.fasta > n500_Bos_taurus_mt.fasta
+seqkit sample -n 500 Caniu_lupus_mt.fasta > n500_Caniu_lupus_mt.fasta
+seqkit sample -n 500 Capra_hircus_mt.fasta > n500_Capra_hircus_mt.fasta
+seqkit sample -n 500 Equus_caballus_mt.fasta > n500_Equus_caballus_mt.fasta
+seqkit sample -n 500 Gallus_gallus_mt.fasta > n500_Gallus_gallus_mt.fasta
+seqkit sample -n 500 Ovis_aries_mt.fasta > n500_Ovis_aries_mt.fasta
+seqkit sample -n 500 human_mt.fasta > n500_human_mt.fasta
+
+
+# -------------------------------------------------------------- #
+# Concatenate all sequences to make the custom db
+# -------------------------------------------------------------- #
+cat n500_*.fasta vertebrate_mt_general.fasta > vertebrate_db.fa
+
+
+# -------------------------------------------------------------- #
+# Check the number of sequence reads
+# -------------------------------------------------------------- #
+seqkit stat *.fa*
+
+# Compress FASTA
+gzip *.fasta
+
+
+
+
+
+
+
+# ------------------------------------------------------------------------ #
+## Downloaded on 18 July 2023
+# For 2023.7.18 Version
+# ------------------------------------------------------------------------ #
+
+## For Cetacea only
+## 1,722 seqs
+"Cetacea"[Organisms] AND (biomol_genomic[PROP] AND ddbj_embl_genbank[filter] AND is_nuccore[filter] AND mitochondrion[filter] AND ("15000"[SLEN] : "30000"[SLEN]))
+
+
+## For general mammals other than human and Cetacea
+## 19,682 seqs
+("Mammalia"[Organism] NOT ("Homo sapiens"[Organism] OR "Homo sapiens"[All Fields]) NOT "Cetacea"[Organism]) AND (biomol_genomic[PROP] AND ddbj_embl_genbank[filter] AND is_nuccore[filter] AND mitochondrion[filter] AND ("15000"[SLEN] : "30000"[SLEN]))
+
+
+## For humans
+## 64,404
+("Homo sapiens"[Organism] OR "Homo sapiens"[All Fields]) AND (biomol_genomic[PROP] AND ddbj_embl_genbank[filter] AND is_nuccore[filter] AND mitochondrion[filter] AND ("15000"[SLEN] : "30000"[SLEN])))
+
+### Select Homo sapiens only (64,048 seqs)
+### Then, randomly select sequences using the following command
+seqkit sample -n 1000 human_mt.fasta > human_mt_n1000.fasta
+
+
+# Combine sequences
+cat human_mt_n1000.fasta 230710mammalia_mt.fasta > mammalia_human1000_mt.fasta

@@ -1,0 +1,22 @@
+query	superkingdom	kingdom	phylum	subphylum	superclass	class	superorder	order	suborder	infraorder	parvorder	family	genus	species
+OTU00001	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia	Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae	Pseudorca	Pseudorca crassidens
+OTU00002	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia	Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae		
+OTU00003	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia	Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae	Steno	Steno bredanensis
+OTU00004	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia	Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae	Feresa	Feresa attenuata
+OTU00005	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia	Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Phocoenidae	Neophocaena	
+OTU00006	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia	Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Mysticeti	Balaenopteridae	Balaenoptera	Balaenoptera acutorostrata
+OTU00007	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia	Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae		
+OTU00008	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia	Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea				
+OTU00009	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia	Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti			
+OTU00010	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia	Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea				
+OTU00011	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia	Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae		
+OTU00012	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia	Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae		
+OTU00013	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia	Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea				
+OTU00014	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia	Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea				
+OTU00015	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia	Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti			
+OTU00016	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia	Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae		
+OTU00017	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia	Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti			
+OTU00018	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia	Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti			
+OTU00019	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia	Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea				
+OTU00020	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia	Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae		
+OTU00021	Eukaryota	Metazoa	Chordata	Craniata	Sarcopterygii	Mammalia	Laurasiatheria	Artiodactyla	Whippomorpha	Cetacea	Odontoceti	Delphinidae		

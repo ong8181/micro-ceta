@@ -1,0 +1,28 @@
+R version 4.4.2 (2024-10-31)
+Platform: aarch64-apple-darwin20
+Running under: macOS Sonoma 14.6.1
+
+Matrix products: default
+BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib 
+LAPACK: /Library/Frameworks/R.framework/Versions/4.4-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.12.0
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+time zone: Asia/Hong_Kong
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] cols4all_0.8      viridis_0.6.5     viridisLite_0.4.2 cowplot_1.1.3     lubridate_1.9.4   forcats_1.0.0     stringr_1.5.1    
+ [8] dplyr_1.1.4       purrr_1.0.2       readr_2.1.5       tidyr_1.3.1       tibble_3.2.1      ggplot2_3.5.1     tidyverse_2.0.0  
+
+loaded via a namespace (and not attached):
+ [1] gtable_0.3.6      spacesXYZ_1.3-0   compiler_4.4.2    Rcpp_1.0.14       tidyselect_1.2.1  gridExtra_2.3     textshaping_0.4.1
+ [8] systemfonts_1.2.0 png_0.1-8         scales_1.3.0      R6_2.5.1          labeling_0.4.3    generics_0.1.3    munsell_0.5.1    
+[15] macam_0.1.8       pillar_1.10.1     tzdb_0.4.0        rlang_1.1.4       utf8_1.2.4        stringi_1.8.4     timechange_0.3.0 
+[22] cli_3.6.3         withr_3.0.2       magrittr_2.0.3    grid_4.4.2        rstudioapi_0.17.1 hms_1.1.3         lifecycle_1.0.4  
+[29] vctrs_0.6.5       glue_1.8.0        farver_2.1.2      ragg_1.3.3        abind_1.4-8       colorspace_2.1-1  tools_4.4.2      
+[36] pkgconfig_2.0.3  

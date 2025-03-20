@@ -1,0 +1,134 @@
+---
+output:
+  pdf_document:
+    latex_engine: xelatex
+    fig_caption: yes
+  word_document: default
+mainfont: Palatino
+header-includes:
+- \usepackage{caption}
+- \captionsetup[figure]{labelformat=empty}
+- \pagenumbering{gobble}
+---
+
+<center>
+
+![
+**Figure 1 | Candidate primers for Cetacea-specific eDNA metabarcoding designed from the mitochondrial genome.** Previously reported mammal and vertebrate-targeting primers and our candidates primers for Cetacea-specific eDNA metabarcoding "MiMammal," "MarVer1," "Riaz12S," and "Ceto2" are previously reported primers, while all other primers were designed in this study. Primers shown in bold face (either in red or black) were empirically validated in this study, and primers in red bold face are newly designed. Mu31F/Dc320R was later named "µCeta." The prefixes "Mu" and "Dc" denote primers designed manually (by M. Ushio) and using DECIPHER, respectively. Each number between the primer regions indicates the insert length in base pairs (bp). The base numbers are derived from the mitochondrial genome sequence of _Delphinus capensis_.
+](formatted_figs/Fig1_DesignedPrimers.pdf){width=100%}
+
+</center>
+
+
+
+<center>
+
+![
+**Figure 2 | The number of species amplified by _in silico_ PCR.** The number of cetacean (**a**), fish (**b**), and non-fish vertebrate (**c**) species that can potentially be amplified using the previously reported and candidate primers. Colors represent the total number of mismatches between each primer set (forward and reverse primers) and the template DNA (more detailed results are provided in Figures S2—S4). The dashed horizontal line in each panel indicates the total number of species examined. Primer names shown in bold face are new primers that were empirically validated in this study.
+](formatted_figs/Fig2_InSilicoPCR_nspp.pdf){width=100%}
+
+</center>
+
+
+
+<center>
+
+![
+**Figure 3 | Capacity of previously reported and candidate primers to distinguish among different cetacean species, genera, or families.** The capacity to distinguish different cetaceans was assessed by calculating the edit distances between amplicons through _in silico_ PCR. The $x$-axis represents the edit distance, and the $y$-axis represents the number of species pairs corresponding to each edit distance. Different colors represent different taxonomic resolutions. The number of species pairs in the "0" edit distance category indicates the number of species pairs with identical sequences in the target region. Primer names shown in bold face are new primers that were empirically validated in this study.
+](formatted_figs/Fig3_InSilicoPCR_dist.pdf){width=100%}
+
+</center>
+
+
+
+<center>
+
+![
+**Figure 4 | Collection of water samples at dolphin pools in Okinawa Churaumi Aquarium, field site locations in Hong Kong waters, and an Indo-Pacific Humpback Dolphin (_Sousa chinensis_) sighted during the field survey.** (**a**) Water sampling at a dolphin pool in Okinawa Churaumi Aquarium for the "aquarium pool" experiment. (**b**) Water sampling locations in Hong Kong waters. (**c**) an Indo-Pacific Humpback Dolphins (_Sousa chinensis_) sighted during the field survey at site P3.
+](formatted_figs/Fig4_SurveyPhotos.pdf){width=100%}
+
+</center>
+
+
+
+<center>
+
+![
+**Figure 5 | Cetacean eDNA metabarcoding results from the aquarium pool samples using the candidate primers.** (**a**) Each panel indicates the results for four candidate primer sets. The $y$-axis represents seven dolphin pools from which seawater samples were collected, with species names and filled squares indicating the dolphin species reared in each pool. The $x$-axis represents the relative abundance of detected species eDNA. Colors represent different dolphin species or taxonomic categories when species identification is not possible. "Non-present species" denotes species detected that are not reared in the pool. A red tick ($\checkmark$) indicates successful detection of target species. A black cross mark ($\mathit{\times}$) indicates that, although the target species' eDNA was seemingly amplified, its species name was not correctly assigned to the detected eDNA. Photo credits: _T. truncatus_ (Public domain), _T. aduncus_ (CC BY-SA 1.0, Aude Steiner), _P. crassidens_ (Public domain), _F. attenuata_ (Public domain), and _S. bredanensis_ (CC BY-SA 3.0, Gustavo Pérez). All photos are sourced from Wikipedia. (**b**) The range from 0 to 0.1 is enlarged for clarity. 
+](formatted_figs/Fig5_PoolTest_ed.pdf){width=100%}
+
+</center>
+
+
+
+
+<center>
+
+![
+**Figure S1 | The distribution of expected amplicon lengths for each primer set.** Expected amplicon lengths for Cetacea species (**a**) and other species (**b**). Results are based on _in silico_ PCR analysis of 71 cetacean species and 36,250 non-cetacean vertebrates. Each horizontal bar represents the median expected amplicon length for each primer set. Primer names shown in bold face are new primers that were empirically validated in this study.
+](formatted_figs/FigS1_AmpliconLength.jpg){width=100%}
+
+</center>
+
+
+
+
+<center>
+
+![
+**Figure S2 | The number of matched species for each primer by _in silico_ PCR.** The number of cetacean (**a**), fish (**b**), and non-fish vertebrate (**c**) sequences that are matched with each primer. Colors indicate the total number of mismatch between a primer set (forward and reverse primers) and template DNA. The dashed horizontal lines indicate the total number of sequences examined. Primer names shown in bold face are new primers that were empirically validated in this study.
+](formatted_figs/FigS2_InSilicoPCR_AllPrimers.pdf){width=100%}
+
+</center>
+
+
+<center>
+
+![
+**Figure S3 | The number of amplified sequences by _in silico_ PCR.** 
+The number of cetacean (**a**), fish (**b**), and non-fish vertebrate (**c**) sequences potentially amplified by the previously reported and candidate primers. Colors indicate the total number of mismatches between the primer set and the template DNA (mismatches for forward and reverse primers were combined). The dashed horizontal lines represent the total number of sequences examined. Primer names shown in bold face are new primers that were empirically validated in this study.
+](formatted_figs/FigS3_InSilicoPCR_nseq.pdf){width=100%}
+
+</center>
+
+
+<center>
+
+![
+**Figure S4 | The relationships among the number of species, sequences, primer sets, taxa, and the number of mismatches examined by _in silico_ PCR.** The number of mismatches between the template DNA and primers examined by _in silico PCR_, summarized by the number of species (**a**) and sequences (**b**). Each panel represents a different taxonomic group (denoted in the strip). Colors indicate the total number of mismatches. The dashed horizontal lines represent the total number of species examined. Primer names shown in bold face are new primers that were empirically validated in this study.
+](formatted_figs/FigS4_InSilicoPCR_detailAll.pdf){width=100%}
+
+</center>
+
+
+
+
+<center>
+
+![
+**Figure S5 | Primer logos for four candidate primers that were empirically validated.** Primer logs for (**a**) Mu31F/Dc320R, (**b**) Dc671F/Dc1015R, (**c**) Mu2084F/Dc2438R, and (**d**) Mu9459F/Mu9822R. Colors represent different bases, with red characters indicating degenerate bases. In each primer set, "F:" and "R:" denote the sequences for forward and reverse primers, respectively.
+](formatted_figs/FigS5_PrimerLogos.pdf){width=100%}
+
+</center>
+
+
+
+
+<center>
+
+![
+**Figure S6 | Cetacean eDNA metabarcoding results from aquarium pool samples using MiMammal and Ceto2.** Each panel presents the results of two previously reported primer sets, MiMammal and Ceto2. The $y$-axis represents seven dolphin pools from which seawater samples were collected, with species names and filled square indicating the dolphin species reared in each pool. The $x$-axis represents the relative abundance of detected species eDNA. Colors represent different dolphin species or taxonomic categories when species identification is not possible. "Non-present species" denotes species detected that are not reared in the pool. A red tick ($\checkmark$) indicates successful detection of target species. A black cross mark ($\mathit{\times}$) indicates that, although the target species' eDNA was seemingly amplified, its species name was not correctly assigned to the detected eDNA. Photo credits: _T. truncatus_ (Public domain), _T. aduncus_ (CC BY-SA 1.0, Aude Steiner), _P. crassidens_ (Public domain), _F. attenuata_ (Public domain), and _S. bredanensis_ (CC BY-SA 3.0, Gustavo Pérez). All photos are sourced from Wikipedia.
+](formatted_figs/FigS6_PoolTest_ed.pdf){width=100%}
+
+</center>
+
+
+
+<center>
+
+![
+**Figure S7 | Detection of non-Cetacea environmental DNA using the four candidate and two previously reported primers.** Each panel presents the results for four candidate and two previously reported primer sets. The $y$-axis represents seven dolphin pools and three natural seawater samples. The $x$-axis represents the relative abundance of detected species eDNA. Colors represent taxonomic categories.
+](formatted_figs/FigS7_PoolNatTest_ed.pdf){width=100%}
+
+</center>
+

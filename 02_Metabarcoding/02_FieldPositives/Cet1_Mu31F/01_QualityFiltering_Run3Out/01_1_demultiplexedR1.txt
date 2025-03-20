@@ -1,0 +1,7 @@
+file              format  type  num_seqs     sum_len  min_len  avg_len  max_len   Q1   Q2   Q3  sum_gap  N50  Q20(%)  Q30(%)
+T001_R1.fastq.gz  FASTQ   DNA    258,572  62,574,424      242      242      242  121  242  121        0  242   97.67   92.89
+T002_R1.fastq.gz  FASTQ   DNA    218,625  52,907,250      242      242      242  121  242  121        0  242   97.69   92.95
+T003_R1.fastq.gz                       0           0        0        0        0    0    0    0        0    0       0       0
+T004_R1.fastq.gz  FASTQ   DNA         31       7,502      242      242      242  121  242  121        0  242    88.9   82.07
+T005_R1.fastq.gz  FASTQ   DNA          1         242      242      242      242  121  242  121        0  242   96.69   86.78
+T006_R1.fastq.gz  FASTQ   DNA          1         242      242      242      242  121  242  121        0  242   90.91   88.02

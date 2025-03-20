@@ -1,0 +1,3 @@
+This is a dummy text file.
+"vertebrate_db.fa" is heavy (> 600 MB) and not included in this Github repository.
+To reproduce the results, please run the command in NCBI_query_and_preprocessing.txt.

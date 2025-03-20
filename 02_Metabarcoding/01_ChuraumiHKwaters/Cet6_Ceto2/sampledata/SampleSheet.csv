@@ -1,0 +1,13 @@
+Sample_ID,Sample_Name2,Description,Sample_Project,Description2,Primer,sample_nc
+OCI-004-R013,R013,Ceto2_Ch01-02,Cetacea_eDNA,Ch01-02,Ceto2F-R,sample
+OCI-004-R014,R014,Ceto2_Ch03,Cetacea_eDNA,Ch03,Ceto2F-R,sample
+OCI-004-R015,R015,Ceto2_Ch04,Cetacea_eDNA,Ch04,Ceto2F-R,sample
+OCI-004-R016,R016,Ceto2_Ch05,Cetacea_eDNA,Ch05,Ceto2F-R,sample
+OCI-004-R017,R017,Ceto2_Ch06-07,Cetacea_eDNA,Ch06-07,Ceto2F-R,sample
+OCI-004-R018,R018,Ceto2_Ch08,Cetacea_eDNA,Ch08,Ceto2F-R,sample
+OCI-004-R019,R019,Ceto2_Ch09,Cetacea_eDNA,Ch09,Ceto2F-R,sample
+OCI-004-R020,R020,Ceto2_OP01,Cetacea_eDNA,OP01,Ceto2F-R,sample
+OCI-004-R021,R021,Ceto2_OP02,Cetacea_eDNA,OP02,Ceto2F-R,sample
+OCI-004-R022,R022,Ceto2_BT2,Cetacea_eDNA,BT2,Ceto2F-R,sample
+OCI-004-R023,R023,Ceto2_PCR_nc01,Cetacea_eDNA,PCR_nc01,Ceto2F-R,nc
+OCI-004-R024,R024,Ceto2_PCR_nc02,Cetacea_eDNA,PCR_nc02,Ceto2F-R,nc

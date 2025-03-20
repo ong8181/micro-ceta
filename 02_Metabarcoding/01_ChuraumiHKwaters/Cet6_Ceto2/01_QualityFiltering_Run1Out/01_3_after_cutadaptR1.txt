@@ -1,0 +1,13 @@
+file                                       format  type  num_seqs     sum_len  min_len  avg_len  max_len  Q1  Q2  Q3  sum_gap  N50  Q20(%)  Q30(%)
+OCI-004-R013_S13_L001_trimmed_R1.fastq.gz  FASTQ   DNA    148,038  10,965,615       68     74.1      134  73  74  74        0   74   98.44   95.92
+OCI-004-R014_S14_L001_trimmed_R1.fastq.gz  FASTQ   DNA    139,023  10,404,620       62     74.8      134  73  73  73        0   73   98.67   96.42
+OCI-004-R015_S15_L001_trimmed_R1.fastq.gz  FASTQ   DNA    175,464  12,888,689       64     73.5      134  73  73  74        0   73    98.5   96.12
+OCI-004-R016_S16_L001_trimmed_R1.fastq.gz  FASTQ   DNA    160,892  12,009,926       68     74.6      134  74  74  74        0   74   98.41   95.85
+OCI-004-R017_S17_L001_trimmed_R1.fastq.gz  FASTQ   DNA    149,033  11,057,662       62     74.2      134  74  74  74        0   74   98.46   95.89
+OCI-004-R018_S18_L001_trimmed_R1.fastq.gz  FASTQ   DNA    140,289  10,482,510       62     74.7      134  73  73  73        0   73   98.62    96.3
+OCI-004-R019_S19_L001_trimmed_R1.fastq.gz  FASTQ   DNA    132,682   9,842,973       62     74.2      134  73  73  73        0   73   98.34    95.8
+OCI-004-R020_S20_L001_trimmed_R1.fastq.gz  FASTQ   DNA     68,008   5,877,875       68     86.4      135  81  88  88        0   88   98.45   95.55
+OCI-004-R021_S21_L001_trimmed_R1.fastq.gz  FASTQ   DNA     87,260   7,525,770       68     86.2      135  86  88  88        0   88   98.44   95.55
+OCI-004-R022_S22_L001_trimmed_R1.fastq.gz  FASTQ   DNA    104,069   8,906,079       65     85.6      134  79  88  88        0   88   98.21   95.06
+OCI-004-R023_S23_L001_trimmed_R1.fastq.gz                       0           0        0        0        0   0   0   0        0    0       0       0
+OCI-004-R024_S24_L001_trimmed_R1.fastq.gz  FASTQ   DNA         87       7,633       76     87.7       92  88  88  88        0   88   99.12    97.1

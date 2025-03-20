@@ -1,0 +1,56 @@
+R version 4.3.0 (2023-04-21)
+Platform: x86_64-pc-linux-gnu (64-bit)
+Running under: Ubuntu 22.04.5 LTS
+
+Matrix products: default
+BLAS:   /usr/lib/x86_64-linux-gnu/openblas-serial/libblas.so.3 
+LAPACK: /usr/lib/x86_64-linux-gnu/openblas-serial/libopenblas-r0.3.20.so;  LAPACK version 3.10.0
+
+locale:
+ [1] LC_CTYPE=ja_JP.UTF-8       LC_NUMERIC=C              
+ [3] LC_TIME=ja_JP.UTF-8        LC_COLLATE=ja_JP.UTF-8    
+ [5] LC_MONETARY=ja_JP.UTF-8    LC_MESSAGES=ja_JP.UTF-8   
+ [7] LC_PAPER=ja_JP.UTF-8       LC_NAME=C                 
+ [9] LC_ADDRESS=C               LC_TELEPHONE=C            
+[11] LC_MEASUREMENT=ja_JP.UTF-8 LC_IDENTIFICATION=C       
+
+time zone: Asia/Tokyo
+tzcode source: system (glibc)
+
+attached base packages:
+[1] stats4    stats     graphics  grDevices utils     datasets  methods  
+[8] base     
+
+other attached packages:
+ [1] lubridate_1.9.3             forcats_1.0.0              
+ [3] stringr_1.5.1               dplyr_1.1.4                
+ [5] purrr_1.0.2                 readr_2.1.5                
+ [7] tidyr_1.3.1                 tibble_3.2.1               
+ [9] ggplot2_3.5.1               tidyverse_2.0.0            
+[11] ShortRead_1.58.0            GenomicAlignments_1.36.0   
+[13] SummarizedExperiment_1.30.2 Biobase_2.60.0             
+[15] MatrixGenerics_1.12.3       matrixStats_1.3.0          
+[17] Rsamtools_2.16.0            GenomicRanges_1.52.1       
+[19] Biostrings_2.68.1           GenomeInfoDb_1.36.4        
+[21] XVector_0.40.0              IRanges_2.34.1             
+[23] S4Vectors_0.38.2            BiocParallel_1.34.2        
+[25] BiocGenerics_0.46.0         dada2_1.28.0               
+[27] Rcpp_1.0.12                
+
+loaded via a namespace (and not attached):
+ [1] gtable_0.3.5            hwriter_1.3.2.1         latticeExtra_0.6-30    
+ [4] lattice_0.20-45         tzdb_0.4.0              vctrs_0.6.5            
+ [7] tools_4.3.0             bitops_1.0-7            generics_0.1.3         
+[10] parallel_4.3.0          fansi_1.0.6             pkgconfig_2.0.3        
+[13] Matrix_1.5-1            RColorBrewer_1.1-3      RcppParallel_5.1.7     
+[16] lifecycle_1.0.4         GenomeInfoDbData_1.2.10 compiler_4.3.0         
+[19] deldir_2.0-4            munsell_0.5.1           codetools_0.2-19       
+[22] RCurl_1.98-1.14         pillar_1.9.0            crayon_1.5.3           
+[25] DelayedArray_0.26.7     abind_1.4-5             tidyselect_1.2.1       
+[28] stringi_1.8.4           reshape2_1.4.4          grid_4.3.0             
+[31] colorspace_2.1-0        cli_3.6.3               magrittr_2.0.3         
+[34] S4Arrays_1.0.6          utf8_1.2.4              withr_3.0.0            
+[37] scales_1.3.0            timechange_0.3.0        jpeg_0.1-10            
+[40] interp_1.1-6            hms_1.1.3               png_0.1-8              
+[43] rlang_1.1.4             glue_1.7.0              rstudioapi_0.16.0      
+[46] R6_2.5.1                plyr_1.8.9              zlibbioc_1.46.0        

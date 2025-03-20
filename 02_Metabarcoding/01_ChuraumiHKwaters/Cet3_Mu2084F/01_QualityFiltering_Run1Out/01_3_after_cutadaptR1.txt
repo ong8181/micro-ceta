@@ -1,0 +1,16 @@
+file                                                 format  type  num_seqs    sum_len  min_len  avg_len  max_len     Q1   Q2     Q3  sum_gap  N50  Q20(%)  Q30(%)
+S033_FKDL240081149-1A_H7H7NDRX5_trimmed_R1.fastq.gz  FASTQ   DNA     26,613  6,014,565      225      226      228    226  226    226        0  226   97.44   92.49
+S034_FKDL240081149-1A_H7H7NDRX5_trimmed_R1.fastq.gz  FASTQ   DNA     26,971  6,095,489      204      226      228    226  226    226        0  226    97.3   92.22
+S035_FKDL240081149-1A_H7H7NDRX5_trimmed_R1.fastq.gz  FASTQ   DNA     27,550  6,226,357      221      226      228    226  226    226        0  226   97.32   92.39
+S036_FKDL240081149-1A_H7H7NDRX5_trimmed_R1.fastq.gz  FASTQ   DNA     25,228  5,701,587      224      226      228    226  226    226        0  226   97.55   92.67
+S037_FKDL240081149-1A_H7H7NDRX5_trimmed_R1.fastq.gz  FASTQ   DNA     26,805  6,058,009      224      226      228    226  226    226        0  226   97.45   92.55
+S038_FKDL240081149-1A_H7H7NDRX5_trimmed_R1.fastq.gz  FASTQ   DNA     25,596  5,784,734      204      226      227    226  226    226        0  226    97.4   92.37
+S039_FKDL240081149-1A_H7H7NDRX5_trimmed_R1.fastq.gz  FASTQ   DNA     26,319  5,948,167      224      226      228    226  226    226        0  226   97.49    92.7
+S040_FKDL240081149-1A_H7H7NDRX5_trimmed_R1.fastq.gz  FASTQ   DNA        164     37,065      226      226      227    226  226    226        0  226   96.88    91.3
+S041_FKDL240081149-1A_H7H7NDRX5_trimmed_R1.fastq.gz  FASTQ   DNA         34      7,696      226    226.4      227    226  226    227        0  226   97.23   92.06
+S042_FKDL240081149-1A_H7H7NDRX5_trimmed_R1.fastq.gz  FASTQ   DNA     39,176  8,860,911      175    226.2      228    226  226    226        0  226   97.32   92.33
+S043_FKDL240081149-1A_H7H7NDRX5_trimmed_R1.fastq.gz  FASTQ   DNA        100     22,678      226    226.8      227    227  227    227        0  227   97.42   92.48
+S044_FKDL240081149-1A_H7H7NDRX5_trimmed_R1.fastq.gz  FASTQ   DNA         18      4,071      226    226.2      227    226  226    226        0  226   95.41   89.31
+S045_FKDL240081149-1A_H7H7NDRX5_trimmed_R1.fastq.gz  FASTQ   DNA        863    195,901      227      227      227  113.5  227  113.5        0  227   98.15   94.17
+S046_FKDL240081149-1A_H7H7NDRX5_trimmed_R1.fastq.gz  FASTQ   DNA     37,081  8,397,026      224    226.5      228    226  226    227        0  226    97.7   93.04
+S047_FKDL240081149-1A_H7H7NDRX5_trimmed_R1.fastq.gz  FASTQ   DNA          3        678      226      226      226    113  226    113        0  226   98.82   96.46

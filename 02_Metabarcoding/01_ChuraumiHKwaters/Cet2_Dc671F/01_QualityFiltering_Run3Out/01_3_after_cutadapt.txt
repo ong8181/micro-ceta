@@ -1,0 +1,21 @@
+file                                                 format  type  num_seqs    sum_len  min_len  avg_len  max_len   Q1   Q2   Q3  sum_gap  N50  Q20(%)  Q30(%)
+S017_FKDL240081149-1A_HCGM3DRX5_trimmed_R1.fastq.gz  FASTQ   DNA     20,153  4,635,226      228      230      232  230  230  230        0  230   97.37   92.37
+S017_FKDL240081149-1A_HCGM3DRX5_trimmed_R2.fastq.gz  FASTQ   DNA     20,153  4,594,963      227      228      230  228  228  228        0  228   97.44   92.36
+S018_FKDL240081149-1A_HCGM3DRX5_trimmed_R1.fastq.gz  FASTQ   DNA     22,036  5,068,251      187      230      232  230  230  230        0  230   97.49   92.63
+S018_FKDL240081149-1A_HCGM3DRX5_trimmed_R2.fastq.gz  FASTQ   DNA     22,036  5,024,218      179      228      230  228  228  228        0  228   97.56   92.46
+S019_FKDL240081149-1A_HCGM3DRX5_trimmed_R1.fastq.gz  FASTQ   DNA     21,857  5,027,121      222      230      232  230  230  230        0  230   97.42   92.55
+S019_FKDL240081149-1A_HCGM3DRX5_trimmed_R2.fastq.gz  FASTQ   DNA     21,857  4,983,470      215      228      230  228  228  228        0  228   97.36   92.22
+S020_FKDL240081149-1A_HCGM3DRX5_trimmed_R1.fastq.gz  FASTQ   DNA     20,124  4,628,509      211      230      232  230  230  230        0  230   97.38   92.29
+S020_FKDL240081149-1A_HCGM3DRX5_trimmed_R2.fastq.gz  FASTQ   DNA     20,124  4,588,307      209      228      230  228  228  228        0  228   97.51   92.45
+S021_FKDL240081149-1A_HCGM3DRX5_trimmed_R1.fastq.gz  FASTQ   DNA     20,017  4,603,898      228      230      232  230  230  230        0  230   97.38   92.28
+S021_FKDL240081149-1A_HCGM3DRX5_trimmed_R2.fastq.gz  FASTQ   DNA     20,017  4,563,903      209      228      230  228  228  228        0  228   97.42   92.26
+S022_FKDL240081149-1A_HCGM3DRX5_trimmed_R1.fastq.gz  FASTQ   DNA     21,478  4,939,961      227      230      232  230  230  230        0  230   97.42   92.48
+S022_FKDL240081149-1A_HCGM3DRX5_trimmed_R2.fastq.gz  FASTQ   DNA     21,478  4,897,054      215      228      230  228  228  228        0  228   97.48    92.5
+S023_FKDL240081149-1A_HCGM3DRX5_trimmed_R1.fastq.gz  FASTQ   DNA     21,484  4,941,317      222      230      232  230  230  230        0  230   97.28   92.13
+S023_FKDL240081149-1A_HCGM3DRX5_trimmed_R2.fastq.gz  FASTQ   DNA     21,484  4,898,437      227      228      230  228  228  228        0  228   97.47   92.28
+S024_FKDL240081149-1A_HCGM3DRX5_trimmed_R1.fastq.gz  FASTQ   DNA         54     12,421      230      230      231  230  230  230        0  230   97.05   91.39
+S024_FKDL240081149-1A_HCGM3DRX5_trimmed_R2.fastq.gz  FASTQ   DNA         54     12,313      228      228      229  228  228  228        0  228   97.15   92.04
+S026_FKDL240081149-1A_HCGM3DRX5_trimmed_R1.fastq.gz                       0          0        0        0        0    0    0    0        0    0       0       0
+S026_FKDL240081149-1A_HCGM3DRX5_trimmed_R2.fastq.gz                       0          0        0        0        0    0    0    0        0    0       0       0
+S030_FKDL240081149-1A_HCGM3DRX5_trimmed_R1.fastq.gz  FASTQ   DNA      2,043    469,845      186      230      231  230  230  230        0  230   97.62    92.8
+S030_FKDL240081149-1A_HCGM3DRX5_trimmed_R2.fastq.gz  FASTQ   DNA      2,043    465,826      227      228      230  228  228  228        0  228   97.89   93.32

@@ -1,0 +1,13 @@
+Sample_ID,Sample_Name2,Description,Sample_Project,Description2,Primer,sample_nc
+OCI-004-R001,R001,MiMam_Ch01-02,Cetacea_eDNA,Ch01-02,MiMammalF-R,sample
+OCI-004-R002,R002,MiMam_Ch03,Cetacea_eDNA,Ch03,MiMammalF-R,sample
+OCI-004-R003,R003,MiMam_Ch04,Cetacea_eDNA,Ch04,MiMammalF-R,sample
+OCI-004-R004,R004,MiMam_Ch05,Cetacea_eDNA,Ch05,MiMammalF-R,sample
+OCI-004-R005,R005,MiMam_Ch06-07,Cetacea_eDNA,Ch06-07,MiMammalF-R,sample
+OCI-004-R006,R006,MiMam_Ch08,Cetacea_eDNA,Ch08,MiMammalF-R,sample
+OCI-004-R007,R007,MiMam_Ch09,Cetacea_eDNA,Ch09,MiMammalF-R,sample
+OCI-004-R008,R008,MiMam_OP01,Cetacea_eDNA,OP01,MiMammalF-R,sample
+OCI-004-R009,R009,MiMam_OP02,Cetacea_eDNA,OP02,MiMammalF-R,sample
+OCI-004-R010,R010,MiMam_BT2,Cetacea_eDNA,BT2,MiMammalF-R,sample
+OCI-004-R011,R011,MiMam_PCR_nc01,Cetacea_eDNA,PCR_nc01,MiMammalF-R,nc
+OCI-004-R012,R012,MiMam_PCR_nc02,Cetacea_eDNA,PCR_nc02,MiMammalF-R,nc
