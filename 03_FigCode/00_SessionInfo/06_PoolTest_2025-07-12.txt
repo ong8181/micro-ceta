@@ -1,0 +1,118 @@
+R version 4.4.2 (2024-10-31)
+Platform: aarch64-apple-darwin20
+Running under: macOS Sequoia 15.5
+
+Matrix products: default
+BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib 
+LAPACK: /Library/Frameworks/R.framework/Versions/4.4-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.12.0
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+time zone: Asia/Hong_Kong
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils    
+[5] datasets  methods   base     
+
+other attached packages:
+ [1] phyloseq_1.50.0   ggtext_0.1.2     
+ [3] cols4all_0.8      viridis_0.6.5    
+ [5] viridisLite_0.4.2 cowplot_1.1.3    
+ [7] lubridate_1.9.4   forcats_1.0.0    
+ [9] stringr_1.5.1     dplyr_1.1.4      
+[11] purrr_1.0.4       readr_2.1.5      
+[13] tidyr_1.3.1       tibble_3.3.0     
+[15] ggplot2_3.5.2     tidyverse_2.0.0  
+
+loaded via a namespace (and not attached):
+ [1] ade4_1.7-22            
+ [2] tidyselect_1.2.1       
+ [3] farver_2.1.2           
+ [4] Biostrings_2.74.1      
+ [5] fastmap_1.2.0          
+ [6] macam_0.2.0            
+ [7] digest_0.6.37          
+ [8] timechange_0.3.0       
+ [9] lifecycle_1.0.4        
+[10] cluster_2.1.8          
+[11] survival_3.8-3         
+[12] magrittr_2.0.3         
+[13] compiler_4.4.2         
+[14] rlang_1.1.6            
+[15] tools_4.4.2            
+[16] igraph_2.1.2           
+[17] yaml_2.3.10            
+[18] data.table_1.16.4      
+[19] knitr_1.49             
+[20] plyr_1.8.9             
+[21] xml2_1.3.7             
+[22] RColorBrewer_1.1-3     
+[23] abind_1.4-8            
+[24] withr_3.0.2            
+[25] BiocGenerics_0.52.0    
+[26] grid_4.4.2             
+[27] stats4_4.4.2           
+[28] multtest_2.62.0        
+[29] biomformat_1.34.0      
+[30] colorspace_2.1-1       
+[31] Rhdf5lib_1.28.0        
+[32] spacesXYZ_1.3-0        
+[33] scales_1.4.0           
+[34] iterators_1.0.14       
+[35] MASS_7.3-64            
+[36] dichromat_2.0-0.1      
+[37] cli_3.6.5              
+[38] vegan_2.7-1            
+[39] rmarkdown_2.29         
+[40] crayon_1.5.3           
+[41] ragg_1.3.3             
+[42] generics_0.1.4         
+[43] rstudioapi_0.17.1      
+[44] httr_1.4.7             
+[45] reshape2_1.4.4         
+[46] tzdb_0.4.0             
+[47] commonmark_1.9.2       
+[48] rhdf5_2.50.2           
+[49] ape_5.8-1              
+[50] splines_4.4.2          
+[51] zlibbioc_1.52.0        
+[52] parallel_4.4.2         
+[53] XVector_0.46.0         
+[54] vctrs_0.6.5            
+[55] Matrix_1.7-1           
+[56] jsonlite_1.9.0         
+[57] IRanges_2.40.1         
+[58] hms_1.1.3              
+[59] S4Vectors_0.44.0       
+[60] speedyseq_0.5.3.9021   
+[61] systemfonts_1.2.0      
+[62] foreach_1.5.2          
+[63] glue_1.8.0             
+[64] codetools_0.2-20       
+[65] stringi_1.8.7          
+[66] gtable_0.3.6           
+[67] GenomeInfoDb_1.42.1    
+[68] UCSC.utils_1.2.0       
+[69] pillar_1.10.2          
+[70] rhdf5filters_1.18.0    
+[71] htmltools_0.5.8.1      
+[72] macamseq_0.1.8         
+[73] GenomeInfoDbData_1.2.13
+[74] R6_2.6.1               
+[75] textshaping_0.4.1      
+[76] microbenchmark_1.5.0   
+[77] evaluate_1.0.3         
+[78] Biobase_2.66.0         
+[79] lattice_0.22-6         
+[80] markdown_1.13          
+[81] png_0.1-8              
+[82] gridtext_0.1.5         
+[83] Rcpp_1.0.14            
+[84] permute_0.9-7          
+[85] gridExtra_2.3          
+[86] nlme_3.1-166           
+[87] mgcv_1.9-1             
+[88] xfun_0.51              
+[89] pkgconfig_2.0.3        

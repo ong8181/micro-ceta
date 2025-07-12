@@ -29,8 +29,8 @@ match_seq_all$primer_name[match_seq_all$primer_name == "Dc2173F"] <- "Dc2173"
 match_seq_all$primer_name[match_seq_all$primer_name == "Dc2385F"] <- "Dc2385"
 match_seq_all$primer_name[match_seq_all$primer_name == "Dc2430F"] <- "Dc2430"
 match_seq_all$primer_name[match_seq_all$primer_name == "Dc2580R"] <- "Dc2580"
-match_seq_all$primer_name <- match_seq_all$primer_name %>% str_replace_all("Mu31F", "**Mu31F**")
-match_seq_all$primer_name <- match_seq_all$primer_name %>% str_replace_all("Dc320R", "**Dc320R**")
+match_seq_all$primer_name <- match_seq_all$primer_name %>% str_replace_all("Mu31F", "**µCeta-F | Mu31F**")
+match_seq_all$primer_name <- match_seq_all$primer_name %>% str_replace_all("Dc320R", "**µCeta-R | Dc320R**")
 match_seq_all$primer_name <- match_seq_all$primer_name %>% str_replace_all("Dc671F", "**Dc671F**")
 match_seq_all$primer_name <- match_seq_all$primer_name %>% str_replace_all("Dc1015R", "**Dc1015R**")
 match_seq_all$primer_name <- match_seq_all$primer_name %>% str_replace_all("Mu2084F", "**Mu2084F**")
@@ -42,8 +42,8 @@ match_sp_all$primer_name[match_sp_all$primer_name == "Dc2173F"] <- "Dc2173"
 match_sp_all$primer_name[match_sp_all$primer_name == "Dc2385F"] <- "Dc2385"
 match_sp_all$primer_name[match_sp_all$primer_name == "Dc2430F"] <- "Dc2430"
 match_sp_all$primer_name[match_sp_all$primer_name == "Dc2580R"] <- "Dc2580"
-match_sp_all$primer_name <- match_sp_all$primer_name %>% str_replace_all("Mu31F", "**Mu31F**")
-match_sp_all$primer_name <- match_sp_all$primer_name %>% str_replace_all("Dc320R", "**Dc320R**")
+match_sp_all$primer_name <- match_sp_all$primer_name %>% str_replace_all("Mu31F", "**µCeta-F | Mu31F**")
+match_sp_all$primer_name <- match_sp_all$primer_name %>% str_replace_all("Dc320R", "**µCeta-R | Dc320R**")
 match_sp_all$primer_name <- match_sp_all$primer_name %>% str_replace_all("Dc671F", "**Dc671F**")
 match_sp_all$primer_name <- match_sp_all$primer_name %>% str_replace_all("Dc1015R", "**Dc1015R**")
 match_sp_all$primer_name <- match_sp_all$primer_name %>% str_replace_all("Mu2084F", "**Mu2084F**")
@@ -52,8 +52,8 @@ match_sp_all$primer_name <- match_sp_all$primer_name %>% str_replace_all("Mu9459
 match_sp_all$primer_name <- match_sp_all$primer_name %>% str_replace_all("Mu9822R", "**Mu9822R**")
 ## Define the primer order,
 primer_order <- c("MiMammalF","MiMammalR","MarVer1F","MarVer1R","MarVer2F","MarVer2R",
-                  "MarVer3F","MarVer3R","Ceto2F","Ceto2R","Riaz12SF","Riaz12SR","**Mu31F**",
-                  "**Dc320R**","Dc321F","Dc494F","Dc495R","Mu642F","Mu643R","**Dc671F**",
+                  "MarVer3F","MarVer3R","Ceto2F","Ceto2R","Riaz12SF","Riaz12SR","**µCeta-F | Mu31F**",
+                  "**µCeta-R | Dc320R**","Dc321F","Dc494F","Dc495R","Mu642F","Mu643R","**Dc671F**",
                   "**Dc1015R**","Mu1021R","Dc1458F","Dc1465F","Dc1638R","Dc1646R","**Mu2084F**",
                   "Dc2173","Mu2187F","Dc2385","Dc2430","Dc2438F","**Dc2438R**","Dc2505F",
                   "Mu2563R","Dc2580","**Mu9459F**","**Mu9822R**","Mu9834R")

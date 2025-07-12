@@ -48,8 +48,10 @@ ps_mt2 <- ps_mt1 %>% group_by_at(c("new_name", "Primer", "bundled_tax")) %>%
   summarize(sequence_reads = sum(Abundance))
 ps_mt2$Primer <- ps_mt2$Primer %>% str_replace_all("_", "/")
 ps_mt2$Primer <- ps_mt2$Primer %>% str_replace_all("F-R", "")
+# Revise primer name
+ps_mt2$Primer[ps_mt2$Primer == "Mu31F/Dc320R"] <- "Mu31F/Dc320R (µCeta)"
 ps_mt2$Primer <- factor(ps_mt2$Primer,
-                        levels = c("Mu31F/Dc320R","Dc671F/Dc1015R",
+                        levels = c("Mu31F/Dc320R (µCeta)","Dc671F/Dc1015R",
                                    "Mu2084F/Dc2438R","Mu9459F/Mu9822R",
                                    "MiMammal","Ceto2"))
 
@@ -92,8 +94,9 @@ ps_chr_ed <- phyloseq(otu_table(otu_sheet_ed, taxa_are_rows = FALSE),
 primer_rename <- sample_data(ps_chr_ed)$Primer
 primer_rename <- primer_rename %>% str_replace_all("_", "/")
 primer_rename <- primer_rename %>% str_replace_all("F-R", "")
+primer_rename[primer_rename == "Mu31F/Dc320R"] <- "Mu31F/Dc320R (µCeta)"
 sample_data(ps_chr_ed)$Primer <- factor(primer_rename,
-                                        levels = c("Mu31F/Dc320R","Dc671F/Dc1015R",
+                                        levels = c("Mu31F/Dc320R (µCeta)","Dc671F/Dc1015R",
                                                    "Mu2084F/Dc2438R","Mu9459F/Mu9822R",
                                                    "MiMammal","Ceto2"))
 # Edit taxa

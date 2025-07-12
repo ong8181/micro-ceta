@@ -11,10 +11,11 @@ header-includes:
 - \pagenumbering{gobble}
 ---
 
+
 <center>
 
 ![
-**Figure 1 | Candidate primers for Cetacea-specific eDNA metabarcoding designed from the mitochondrial genome.** Previously reported mammal and vertebrate-targeting primers and our candidates primers for Cetacea-specific eDNA metabarcoding "MiMammal," "MarVer1," "Riaz12S," and "Ceto2" are previously reported primers, while all other primers were designed in this study. Primers shown in bold face (either in red or black) were empirically validated in this study, and primers in red bold face are newly designed. Mu31F/Dc320R was later named "µCeta." The prefixes "Mu" and "Dc" denote primers designed manually (by M. Ushio) and using DECIPHER, respectively. Each number between the primer regions indicates the insert length in base pairs (bp). The base numbers are derived from the mitochondrial genome sequence of _Delphinus capensis_.
+**Figure 1 | Candidate primers for Cetacea-specific eDNA metabarcoding designed from the mitochondrial genome.** Previously reported mammal and vertebrate-targeting primers and our candidates primers for Cetacea-specific eDNA metabarcoding. "MiMammal," "MarVer1," "MarVer2," "MarVer3," "Ceto2" and "Riaz12S" are previously reported primers, while all other primers were designed in this study. Primers shown in boldface were empirically validated in this study, and newly designed primers among the empirically validated primers are highlighted in red. The prefixes "Mu" and "Dc" denote primers designed manually (by M. Ushio) and using DECIPHER, respectively. Each number between the primer regions indicates the target length in base pairs (bp) (i.e., the length of amplicon without primers). The "Seq. I.D. (%)" shown by the blue line indicates the 11-bp moving average of sequence identity (%). In the graph, "100%" means that all cetacean species have the same base at that position, while "70%" indicates that 70% of the cetacean species have the most common base. The base numbers are derived from the mitochondrial genome sequence of _Delphinus capensis_.
 ](formatted_figs/Fig1_DesignedPrimers.pdf){width=100%}
 
 </center>
@@ -34,7 +35,7 @@ header-includes:
 <center>
 
 ![
-**Figure 3 | Capacity of previously reported and candidate primers to distinguish among different cetacean species, genera, or families.** The capacity to distinguish different cetaceans was assessed by calculating the edit distances between amplicons through _in silico_ PCR. The $x$-axis represents the edit distance, and the $y$-axis represents the number of species pairs corresponding to each edit distance. Different colors represent different taxonomic resolutions. The number of species pairs in the "0" edit distance category indicates the number of species pairs with identical sequences in the target region. Primer names shown in bold face are new primers that were empirically validated in this study.
+**Figure 3 | Capacity of previously reported and candidate primers to distinguish among different cetacean species, genera, or families.** The capacity to distinguish different cetaceans was assessed by calculating the edit distances between amplicons through _in silico_ PCR. The $x$-axis represents the edit distance, and the $y$-axis represents the log-transformed number of species pairs corresponding to each edit distance. Light blue bars indicate comparisons among different species, and light orange and purple bars represent comparisons among species belonging to different genera and families, respectively. The number of species pairs in the "0" edit distance category indicates the number of species pairs with identical sequences in the target region. Primer names shown in bold face are new primers that were empirically validated in this study.
 ](formatted_figs/Fig3_InSilicoPCR_dist.pdf){width=100%}
 
 </center>
@@ -44,8 +45,8 @@ header-includes:
 <center>
 
 ![
-**Figure 4 | Collection of water samples at dolphin pools in Okinawa Churaumi Aquarium, field site locations in Hong Kong waters, and an Indo-Pacific Humpback Dolphin (_Sousa chinensis_) sighted during the field survey.** (**a**) Water sampling at a dolphin pool in Okinawa Churaumi Aquarium for the "aquarium pool" experiment. (**b**) Water sampling locations in Hong Kong waters. (**c**) an Indo-Pacific Humpback Dolphins (_Sousa chinensis_) sighted during the field survey at site P3.
-](formatted_figs/Fig4_SurveyPhotos.pdf){width=100%}
+**Figure 4 | Collection of water samples at dolphin pools in Okinawa Churaumi Aquarium, field site locations in Hong Kong waters, and an Indo-Pacific Humpback Dolphin (_Sousa chinensis_) sighted during the field survey.** (**a**) Water sampling at a dolphin pool in Okinawa Churaumi Aquarium for the "aquarium pool" experiment. (**b**) Water sampling locations in Hong Kong waters. P1 and P2 indicate the sampling locations for the preliminary testing, and P3 indicates the sampling locations for the positive field sample. Maps were created by `ggmap` package of R (&copy;Stadia Maps, &copy;Stamen Design, &copy;OpenMapTiles and &copy;OpenStreetMap) (**c**) An Indo-Pacific Humpback Dolphins _(Sousa chinensis_) sighted during the field survey at site P3 (Photo by E. Matrai).
+](../03_FigCode/data_img/SurveyPics_1.png){width=100%}
 
 </center>
 
@@ -106,7 +107,7 @@ The number of cetacean (**a**), fish (**b**), and non-fish vertebrate (**c**) se
 <center>
 
 ![
-**Figure S5 | Primer logos for four candidate primers that were empirically validated.** Primer logs for (**a**) Mu31F/Dc320R, (**b**) Dc671F/Dc1015R, (**c**) Mu2084F/Dc2438R, and (**d**) Mu9459F/Mu9822R. Colors represent different bases, with red characters indicating degenerate bases. In each primer set, "F:" and "R:" denote the sequences for forward and reverse primers, respectively.
+**Figure S5 | Primer logos for four candidate primers that were empirically validated.** Primer logos for (**a**) Mu31F/Dc320R (µCeta), (**b**) Dc671F/Dc1015R, (**c**) Mu2084F/Dc2438R, and (**d**) Mu9459F/Mu9822R. Colors represent different bases, with red characters indicating degenerate bases. In each primer set, "F:" and "R:" denote the sequences for forward and reverse primers, respectively. The $y$-axis represents the information (in bits) regarding the conservation of the base at each position. A value of "2" indicates that all the bases are the same, while a value of "0" indicates that the bases are random.
 ](formatted_figs/FigS5_PrimerLogos.pdf){width=100%}
 
 </center>
@@ -131,4 +132,5 @@ The number of cetacean (**a**), fish (**b**), and non-fish vertebrate (**c**) se
 ](formatted_figs/FigS7_PoolNatTest_ed.pdf){width=100%}
 
 </center>
+
 

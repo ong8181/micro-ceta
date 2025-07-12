@@ -2,6 +2,7 @@
 #### µCeta paper
 #### Compile and format figures
 #### 2025.03.07, Ushio
+#### 2025.07.14, revised, Ushio
 ####
 
 # Load libraries
@@ -11,6 +12,7 @@ library(cowplot); packageVersion("cowplot")
 library(cols4all); packageVersion("cols4all")
 library(ggforce); packageVersion("ggforce")
 library(ggtext); packageVersion("ggtext")
+library(png); packageVersion("png")
 
 # Create output directory
 dir.create("00_SessionInfo")

@@ -20,7 +20,7 @@ var_all_df <- readRDS("../01_InSilicoPCR/07_EvaluateDistanceCetaOut/var_all_df.o
 # ------------------------------------------------ #
 # Define the primer order
 primer_order <- c("MiMammal", "MarVer1", "MarVer2", "MarVer3", "Ceto2", "Riaz12S",
-                  "**µCeta | Mu31F/Dc320R**", "Mu31F/MiMammalR", "Dc321F/Dc495R", "Dc494F/Mu643R",
+                  "**Mu31F/Dc320R (µCeta)**", "Mu31F/MiMammalR", "Dc321F/Dc495R", "Dc494F/Mu643R",
                   "Mu642F/Dc1015R", "Mu642F/Mu1021R", "**Dc671F/Dc1015R**", "Dc671F/Mu1021R",
                   "Dc1458/1638", "Dc1465F/Dc1646R", "**Mu2084F/Dc2438R**", "Dc2173/2580",
                   "Mu2187F/Dc2438R", "Mu2187F/Mu2563R", "Dc2385/2580", "Dc2430/2580",
@@ -34,7 +34,7 @@ var_all_df2$n_diff_label <- factor(var_all_df2$n_diff_label, levels = c(as.chara
 var_all_df2$resolution <- factor(var_all_df2$resolution, levels = c("species", "genus", "family"))
 # Replace "_" in the primer names with "/"
 var_all_df2$primer <- var_all_df2$primer %>% str_replace_all("_", "/")
-var_all_df2$primer <- var_all_df2$primer %>% str_replace_all("Mu31F/Dc320R", "**µCeta | Mu31F/Dc320R**")
+var_all_df2$primer <- var_all_df2$primer %>% str_replace_all("Mu31F/Dc320R", "**Mu31F/Dc320R (µCeta)**")
 var_all_df2$primer <- var_all_df2$primer %>% str_replace_all("Dc671F/Dc1015R", "**Dc671F/Dc1015R**")
 var_all_df2$primer <- var_all_df2$primer %>% str_replace_all("Mu2084F/Dc2438R", "**Mu2084F/Dc2438R**")
 var_all_df2$primer <- var_all_df2$primer %>% str_replace_all("Mu9459F/Mu9822R", "**Mu9459F/Mu9822R**")
