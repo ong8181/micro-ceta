@@ -1,4 +1,6 @@
 # Analysis code for cetacean-specific eDNA metabarcoding primer paper
+[![DOI](https://zenodo.org/badge/951654776.svg)](https://doi.org/10.5281/zenodo.16139185)
+
 This repository includes analysis code archive for µCeta primer paper.
 
 # Preprint
