@@ -6,7 +6,7 @@ This repository includes analysis code archive for µCeta primer paper.
 # Official publication
 Ushio M*, Ozawa S, Oka S-I, Sado T, Kisero RO, Porter L, Matrai E, Miya M (2025)  
 µCeta: a set of cetacean-specific primers for environmental DNA metabarcoding with minimal amplification of non-target vertebrates  
-[_Environmental_ DNA 7:e70193](https://doi.org/10.1002/edn3.70193)
+[_Environmental DNA_ 7:e70193](https://doi.org/10.1002/edn3.70193)
 
 # Preprint
 Ushio M*, Ozawa S, Oka S-I, Sado T, Kisero RO, Porter L, Matrai E, Miya M (2025)  
